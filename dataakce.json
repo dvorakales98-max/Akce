@@ -1,0 +1,5647 @@
+{
+"meta": {
+"title": "Kam tenhle týden",
+"updated": "6. 9. 2026",
+"range": "ne 6. – út 15. 9. 2026"
+},
+"events": [
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "market",
+"region": false,
+"start": 600,
+"time": "10–17",
+"note": "přehlídky 11 a 16",
+"title": "MINT Market — Babí léto",
+"href": "https://prazskenaplavky.cz/program-akci/",
+"where": "Náplavka, Rašínovo nábřeží",
+"desc": "Přes 130 českých a slovenských designérů, móda, šperky a doplňky. Módní přehlídky v 11:00 a v 16:00, psi vítáni.",
+"tags": [
+{
+"k": "market",
+"s": "Design"
+},
+{
+"k": "eat",
+"s": "Food stánky"
+},
+{
+"k": "live",
+"s": "DJ"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.0714,
+"lon": 14.4157
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "market",
+"region": false,
+"start": 600,
+"time": "10–19",
+"note": "poslední den",
+"title": "Keramické trhy na Kampě",
+"href": "https://www.praha1.cz/udalosti/tradicni-keramicke-trhy-na-kampe-2026/",
+"where": "Park Kampa",
+"desc": "Doprovodný program opět od 13:00. S MINT Marketem se to dá spojit — je to půl hodiny chůze po nábřeží.",
+"tags": [
+{
+"k": "market",
+"s": "Trhy"
+},
+{
+"k": "eat",
+"s": "Café Therapy"
+},
+{
+"k": "live",
+"s": "Koncerty & cirkus"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.0855,
+"lon": 14.408
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "culture",
+"region": false,
+"start": 600,
+"time": "celý den",
+"note": "závěr",
+"title": "VyšeHrátky — závěrečný den",
+"href": "https://www.vysehratky.cz/",
+"where": "Vyšehrad, Staré purkrabství",
+"desc": "Venkovní část programu je z velké části zdarma, představení se platí.",
+"tags": [
+{
+"k": "culture",
+"s": "Divadlo"
+},
+{
+"k": "live",
+"s": "Koncerty"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.064,
+"lon": 14.4183
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "sport",
+"region": false,
+"start": 615,
+"time": "10:15",
+"note": "7. kolo",
+"title": "FK Viktoria Žižkov – Fotbal Příbram",
+"href": "https://www.chnliga.cz/zapasy/",
+"where": "Stadion Viktorie, Seifertova 2871 · Žižkov",
+"desc": "Chance Národní liga s neobvyklým dopoledním výkopem — tak to má liga v rozpisu. Deset minut pěšky od baráku.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "sport",
+"s": "Fotbal"
+},
+{
+"k": "eat",
+"s": "Klobása & pivo"
+},
+{
+"k": "plain",
+"s": "150–200 Kč"
+}
+],
+"lat": 50.0862,
+"lon": 14.45
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "sport",
+"region": false,
+"start": 600,
+"time": "dopoledne",
+"note": "druhý den",
+"title": "Zbraslav – Jíloviště",
+"href": "https://zbraslav-jiloviste.cz/",
+"where": "Zbraslav, Praha 16",
+"desc": "Nedělní část jízdy do vrchu historických vozů a motocyklů.",
+"tags": [
+{
+"k": "sport",
+"s": "Veteráni"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 49.974,
+"lon": 14.393
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "food",
+"region": false,
+"start": 660,
+"time": "11–18",
+"note": "poslední den",
+"title": "Vinobraní na Pražském hradě",
+"href": "https://www.hrad.cz/cs/kultura-na-hrade",
+"where": "Královská zahrada Pražského hradu",
+"desc": "Zdarma do zahrady, která je jinak přes den plná turistů. Degustační sklenička 120 Kč.",
+"tags": [
+{
+"k": "food",
+"s": "Víno & burčák"
+},
+{
+"k": "eat",
+"s": "Regionální potraviny"
+},
+{
+"k": "live",
+"s": "Kapela"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.0925,
+"lon": 14.399
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "demo",
+"region": false,
+"start": 780,
+"time": "13–17",
+"note": "",
+"title": "Demonstrace podpory Ukrajiny proti ruské agresi",
+"href": "",
+"where": "Staroměstské nám., u sochy Jana Husa · Pražský Majdan",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.0875,
+"lon": 14.4213
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "music",
+"region": false,
+"start": 840,
+"time": "14:00",
+"note": "na zahradě",
+"title": "Planeta Kiddo",
+"href": "https://anka.li/2026/09/planeta-kiddo/",
+"where": "Zahrada Planeta Za, Na Louži 7 · Praha 10",
+"desc": "Denní zahradní verze klubu pro rodiny — hudba na slunci místo tmy a kouře. Dobrá varianta, když jsi v sobotu skončil v pět ráno.",
+"tags": [
+{
+"k": "music",
+"s": "Zahradní"
+},
+{
+"k": "plain",
+"s": "Rodiny s dětmi"
+}
+],
+"lat": 50.0527,
+"lon": 14.5075
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "culture",
+"region": false,
+"start": 900,
+"time": "odpoledne",
+"note": "",
+"title": "Charitativní Smekáč",
+"href": "https://kasarnakarlin.cz/cs/program",
+"where": "Kasárna Karlín, Prvního pluku 20",
+"desc": "Vstup zdarma, výtěžek jde na dobročinné účely. V areálu funguje bar i jídlo.",
+"tags": [
+{
+"k": "culture",
+"s": "Benefice"
+},
+{
+"k": "eat",
+"s": "Bar & jídlo"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.0925,
+"lon": 14.4485
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "nature",
+"region": false,
+"start": 960,
+"time": "16:00",
+"note": "",
+"title": "Veřejné opékání buřtů na Parukářce",
+"href": "https://parukarka.cz/akce-a-koncerty/",
+"where": "Park Parukářka, vrch sv. Kříže · u klubovny",
+"desc": "Sousedské grilování na kopci nad Žižkovem. Neděle vychází beze srážek, takže by mělo proběhnout — při nepohodě se ruší.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "nature",
+"s": "V parku"
+},
+{
+"k": "eat",
+"s": "Buřty na ohni"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.0855,
+"lon": 14.4553
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "music",
+"region": false,
+"start": 960,
+"time": "16:00",
+"note": "",
+"title": "Swing Session: Nedělní Dixie",
+"href": "https://www.jazzdock.cz/cs/koncert/swing-session-nedelni-dixie-8",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Nedělní swingová klasika, 300 Kč na sezení, 200 na stání.",
+"tags": [
+{
+"k": "music",
+"s": "Swing"
+},
+{
+"k": "plain",
+"s": "200–300 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "culture",
+"region": false,
+"start": 1170,
+"time": "19:30",
+"note": "velký sál",
+"title": "NEBOJSY: Parte hard",
+"href": "https://www.palacakropolis.cz/",
+"where": "Palác Akropolis, Kubelíkova 27 · Žižkov",
+"desc": "Velký sál Akropole zase žije — divadelní kus domácího souboru kousek od Jiřáku.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "culture",
+"s": "Divadlo"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0838,
+"lon": 14.4487
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "a afterparty",
+"title": "Giöbia (it) + Mad Velvet",
+"href": "https://www.crossclub.cz/cs/program/8631-psychedelic-rock/",
+"where": "Cross Club, hlavní scéna · Holešovice",
+"desc": "Italská psychedelie mezi šedesátkovým rockem a neo-psych. Předprodej GoOut.",
+"tags": [
+{
+"k": "music",
+"s": "Psych rock"
+},
+{
+"k": "plain",
+"s": "Předprodej"
+}
+],
+"lat": 50.101,
+"lon": 14.438
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "",
+"title": "Dvořákova Praha: Chailly & Alexander Malofeev",
+"href": "https://www.rudolfinum.cz/event/38649-filarmonica-della-scala-riccardo-chailly-alexander-malofeev-dvorakova-praha/",
+"where": "Rudolfinum, Dvořákova síň",
+"desc": "Druhý večer Filarmonicy della Scala, tentokrát Rachmaninov a Čajkovskij. Vyprodáno.",
+"tags": [
+{
+"k": "music",
+"s": "Klasika"
+},
+{
+"k": "plain",
+"s": "Vyprodáno"
+}
+],
+"lat": 50.09,
+"lon": 14.4166
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "",
+"title": "Louis Boudot Trio invite Zdeněk Tománek",
+"href": "https://www.jazzdock.cz/cs/koncert/louis-boudot-1",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Francouzsko-český gypsy jazz, 470 Kč sezení / 270 stání.",
+"tags": [
+{
+"k": "music",
+"s": "Gypsy jazz"
+},
+{
+"k": "plain",
+"s": "270–470 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "nature",
+"region": true,
+"start": 540,
+"time": "9–17",
+"note": "poslední den",
+"title": "Japonské dny v Průhonicích",
+"href": "https://japan.cz/2026/07/14/japonske-dny-v-pruhonicke-bot-zahrade-2026/",
+"where": "Průhonická botanická zahrada · ~15 km",
+"desc": "Plný program včetně ošibany s mistryní Sanae Nagašimou. Dá se spojit s procházkou Průhonickým parkem na seznamu UNESCO.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "nature",
+"s": "Zahrada"
+},
+{
+"k": "eat",
+"s": "Japonské stánky"
+},
+{
+"k": "live",
+"s": "Šamisen"
+},
+{
+"k": "plain",
+"s": "Vstupné do areálu"
+}
+],
+"lat": 49.9925,
+"lon": 14.567
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "music",
+"region": true,
+"start": 540,
+"time": "9–18",
+"note": "",
+"title": "Dvořákova Nelahozeves",
+"href": "https://www.strednicechy.cz/kalendar-akci/",
+"where": "Nelahozeves · Dvořákovo rodiště, ~28 km",
+"desc": "Celodenní hudební festival v rodišti Antonína Dvořáka — příhodné, když ti v Rudolfinu nezbyl lístek.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "music",
+"s": "Klasika"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 50.257,
+"lon": 14.3
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "nature",
+"region": true,
+"start": 540,
+"time": "9–17",
+"note": "",
+"title": "1. Říčanský PAW-PUP",
+"href": "https://www.ricany.cz/kalendar/",
+"where": "Říčany · ~22 km",
+"desc": "Celodenní akce pro majitele psů — první ročník.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "nature",
+"s": "Se psem"
+},
+{
+"k": "eat",
+"s": "Občerstvení"
+}
+],
+"lat": 49.992,
+"lon": 14.654
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "culture",
+"region": true,
+"start": 540,
+"time": "9–17",
+"note": "",
+"title": "Hasičský den v Unhošti",
+"href": "https://kladensko-slansko.cz/events",
+"where": "Unhošť · ~25 km",
+"desc": "Historická hasičská technika a muzeum otevřené veřejnosti.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "culture",
+"s": "Technika"
+}
+],
+"lat": 50.085,
+"lon": 14.127
+},
+{
+"day": "ne 6.",
+"dayName": "Dnes",
+"dayDate": "neděle 6. 9.",
+"dayNote": "22° · sucho, nejlepší počasí týdne",
+"type": "sport",
+"region": true,
+"start": 600,
+"time": "10:00",
+"note": "dětský den",
+"title": "Berounský drak — nedělní dojezd",
+"href": "https://www.berounskydrak.cz/",
+"where": "Kemp Na Hrázi, Beroun",
+"desc": "Klidnější než sobota — dětský den, lunapark a venkovní hry. Pořád zdarma.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "sport",
+"s": "Pro rodiny"
+},
+{
+"k": "eat",
+"s": "Občerstvení"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 49.96,
+"lon": 14.08
+},
+{
+"day": "po 7.",
+"dayName": "Zítra",
+"dayDate": "pondělí 7. 9.",
+"dayNote": "24° · polojasno a sucho",
+"type": "demo",
+"region": false,
+"start": 420,
+"time": "7–10",
+"note": "",
+"title": "Volební kampaň MODRÁ pro jedničku",
+"href": "",
+"where": "Revoluční 19, u vstupu do polikliniky",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.0905,
+"lon": 14.429
+},
+{
+"day": "po 7.",
+"dayName": "Zítra",
+"dayDate": "pondělí 7. 9.",
+"dayNote": "24° · polojasno a sucho",
+"type": "demo",
+"region": false,
+"start": 720,
+"time": "12–22",
+"note": "",
+"title": "Shromáždění příznivců strany MODRÁ pro jedničku",
+"href": "",
+"where": "Václavské náměstí, spodní část",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.081,
+"lon": 14.428
+},
+{
+"day": "po 7.",
+"dayName": "Zítra",
+"dayDate": "pondělí 7. 9.",
+"dayNote": "24° · polojasno a sucho",
+"type": "demo",
+"region": false,
+"start": 975,
+"time": "16:15",
+"note": "do 19:30",
+"title": "Propagace veganského životního stylu",
+"href": "",
+"where": "Tylovo nám., roh Jugoslávské a Bělehradské",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.0755,
+"lon": 14.436
+},
+{
+"day": "po 7.",
+"dayName": "Zítra",
+"dayDate": "pondělí 7. 9.",
+"dayNote": "24° · polojasno a sucho",
+"type": "music",
+"region": false,
+"start": 1080,
+"time": "18:00",
+"note": "",
+"title": "Dvořákova Praha: Rodina Pěruškova & Kristina Vocetková",
+"href": "https://www.dvorakovapraha.cz/",
+"where": "Artium, Centrum Bořislavka · Praha 6",
+"desc": "Komorní odbočka festivalu mimo Rudolfinum. Vyprodáno.",
+"tags": [
+{
+"k": "music",
+"s": "Komorní"
+},
+{
+"k": "plain",
+"s": "Vyprodáno"
+}
+],
+"lat": 50.101,
+"lon": 14.383
+},
+{
+"day": "po 7.",
+"dayName": "Zítra",
+"dayDate": "pondělí 7. 9.",
+"dayNote": "24° · polojasno a sucho",
+"type": "culture",
+"region": false,
+"start": 1110,
+"time": "18:30",
+"note": "na zahradě",
+"title": "Večerní jóga se Suzanne Borovcovou",
+"href": "https://atriumzizkov.cz/program/",
+"where": "Atrium Žižkov, Čajkovského 12",
+"desc": "V areálu běží rekonstrukce zázemí, cvičí se venku. Cena na webu není uvedená.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "culture",
+"s": "Jóga"
+}
+],
+"lat": 50.0839,
+"lon": 14.453
+},
+{
+"day": "po 7.",
+"dayName": "Zítra",
+"dayDate": "pondělí 7. 9.",
+"dayNote": "24° · polojasno a sucho",
+"type": "culture",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "",
+"title": "Žena v černém",
+"href": "https://zdjc.cz/",
+"where": "Žižkovské divadlo J. Cimrmana, hlavní sál · Štítného 5",
+"desc": "Hororová klasika na domácí scéně.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "culture",
+"s": "Divadlo"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 50.0873,
+"lon": 14.447
+},
+{
+"day": "po 7.",
+"dayName": "Zítra",
+"dayDate": "pondělí 7. 9.",
+"dayNote": "24° · polojasno a sucho",
+"type": "music",
+"region": false,
+"start": 1170,
+"time": "19:30",
+"note": "vyprodáno",
+"title": "Collegium 1704: Hudba neapolských chrámů",
+"href": "https://vzlet.cz/program/hudba-neapolskych-chramu-collegium-1704-collegium-vocale-1704/",
+"where": "Vzlet, Holandská 1 · Vršovice",
+"desc": "Barokní program v sále bývalého kina. Vyprodáno — hlídej vrácené lístky.",
+"tags": [
+{
+"k": "music",
+"s": "Baroko"
+},
+{
+"k": "plain",
+"s": "Vyprodáno"
+}
+],
+"lat": 50.07,
+"lon": 14.462
+},
+{
+"day": "po 7.",
+"dayName": "Zítra",
+"dayDate": "pondělí 7. 9.",
+"dayNote": "24° · polojasno a sucho",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "",
+"title": "Dvořákova Praha: Magdalena Kožená & Kirill Gerstein",
+"href": "https://www.rudolfinum.cz/event/38651-magdalena-kozena-kirill-gerstein-dvorakova-praha/",
+"where": "Rudolfinum, Dvořákova síň",
+"desc": "Písňový recitál rezidenční umělkyně festivalu — Janáček, Dvořák, Schulhoff, Rachmaninov a Bartók. Vyprodáno.",
+"tags": [
+{
+"k": "music",
+"s": "Klasika"
+},
+{
+"k": "plain",
+"s": "Vyprodáno"
+}
+],
+"lat": 50.09,
+"lon": 14.4166
+},
+{
+"day": "po 7.",
+"dayName": "Zítra",
+"dayDate": "pondělí 7. 9.",
+"dayNote": "24° · polojasno a sucho",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "21:00",
+"note": "",
+"title": "Los Tekkenos: Peta Liberty & hosté",
+"href": "https://www.crossclub.cz/cs/program/8646-los-tekkenos/",
+"where": "Cross Club, Plynární 23",
+"desc": "Pondělní tekno noc na hlavní scéně, vstup zdarma.",
+"tags": [
+{
+"k": "music",
+"s": "Tekno"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.101,
+"lon": 14.438
+},
+{
+"day": "po 7.",
+"dayName": "Zítra",
+"dayDate": "pondělí 7. 9.",
+"dayNote": "24° · polojasno a sucho",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "21:00",
+"note": "",
+"title": "Five Rivers Blues Band",
+"href": "https://www.jazzdock.cz/cs/koncert/five-rivers-blues-band-11",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Electric blues, 450 Kč sezení / 250 stání.",
+"tags": [
+{
+"k": "music",
+"s": "Blues"
+},
+{
+"k": "plain",
+"s": "250–450 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "po 7.",
+"dayName": "Zítra",
+"dayDate": "pondělí 7. 9.",
+"dayNote": "24° · polojasno a sucho",
+"type": "culture",
+"region": true,
+"start": 1020,
+"time": "17:00",
+"note": "vernisáž",
+"title": "Pořád ještě /mě/ baví…",
+"href": "https://infocentrumberoun.cz/kalendar",
+"where": "Holandský dům, Beroun · ~30 km",
+"desc": "Zahájení výstavy, která pak visí do 26. 9. — dá se stihnout i o víkendu při hrnčířských trzích.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "culture",
+"s": "Vernisáž"
+}
+],
+"lat": 49.9636,
+"lon": 14.0714
+},
+{
+"day": "po 7.",
+"dayName": "Zítra",
+"dayDate": "pondělí 7. 9.",
+"dayNote": "24° · polojasno a sucho",
+"type": "nature",
+"region": true,
+"start": 1080,
+"time": "18–20",
+"note": "",
+"title": "Netopýří noc",
+"href": "https://kladensko-slansko.cz/events",
+"where": "Kladensko · ~25 km",
+"desc": "Večerní přírodovědná vycházka za netopýry s detektorem.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "nature",
+"s": "Vycházka"
+}
+],
+"lat": 50.147,
+"lon": 14.103
+},
+{
+"day": "po 7.",
+"dayName": "Zítra",
+"dayDate": "pondělí 7. 9.",
+"dayNote": "24° · polojasno a sucho",
+"type": "music",
+"region": true,
+"start": 1080,
+"time": "18–20",
+"note": "",
+"title": "Jéé, to znám!",
+"href": "https://www.melnicko-kokorinsko.cz/kalendar-akci",
+"where": "Mělnicko · ~35 km",
+"desc": "Hudební pořad známých melodií, spíš pro klidnější večer.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "music",
+"s": "Melodie"
+}
+],
+"lat": 50.351,
+"lon": 14.474
+},
+{
+"day": "út 8.",
+"dayName": "Úterý",
+"dayDate": "8. 9.",
+"dayNote": "29° · nejteplejší den, večer déšť",
+"type": "culture",
+"region": false,
+"start": 915,
+"time": "15:15",
+"note": "do 16:00",
+"title": "Komentovaná prohlídka Klementina",
+"href": "https://www.klementinum.com/",
+"where": "Národní knihovna, Klementinum · Praha 1",
+"desc": "Barokní knihovní sál a Astronomická věž, kam se běžně nedostaneš.",
+"tags": [
+{
+"k": "culture",
+"s": "Prohlídka"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 50.0865,
+"lon": 14.416
+},
+{
+"day": "út 8.",
+"dayName": "Úterý",
+"dayDate": "8. 9.",
+"dayNote": "29° · nejteplejší den, večer déšť",
+"type": "culture",
+"region": false,
+"start": 1020,
+"time": "17:00",
+"note": "",
+"title": "Tribo Fuego",
+"href": "https://parukarka.cz/akce-a-koncerty/",
+"where": "Park Parukářka · Žižkov",
+"desc": "Otevřené setkání žonglérů a kejklířů na trávě — přijít a zkusit si to může kdokoliv. Zdarma, a je to pět minut od baráku.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "culture",
+"s": "Cirkus"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.0855,
+"lon": 14.4553
+},
+{
+"day": "út 8.",
+"dayName": "Úterý",
+"dayDate": "8. 9.",
+"dayNote": "29° · nejteplejší den, večer déšť",
+"type": "culture",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "",
+"title": "Válka s mloky",
+"href": "https://zdjc.cz/",
+"where": "Žižkovské divadlo J. Cimrmana, hlavní sál",
+"desc": "Čapek na žižkovské scéně.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "culture",
+"s": "Divadlo"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 50.0873,
+"lon": 14.447
+},
+{
+"day": "út 8.",
+"dayName": "Úterý",
+"dayDate": "8. 9.",
+"dayNote": "29° · nejteplejší den, večer déšť",
+"type": "culture",
+"region": false,
+"start": 1170,
+"time": "19:30",
+"note": "",
+"title": "Vosto5: PROTON!!!",
+"href": "https://vzlet.cz/program/",
+"where": "Vzlet, Holandská 1 · Vršovice",
+"desc": "Improvizovaná one-man show souboru Vosto5. Na rozdíl od pondělního koncertu tu jsou lístky.",
+"tags": [
+{
+"k": "culture",
+"s": "Divadlo"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.07,
+"lon": 14.462
+},
+{
+"day": "út 8.",
+"dayName": "Úterý",
+"dayDate": "8. 9.",
+"dayNote": "29° · nejteplejší den, večer déšť",
+"type": "culture",
+"region": false,
+"start": 1170,
+"time": "19:30",
+"note": "8.–11. 9.",
+"title": "Laterna magika: Perpetuum Havel",
+"href": "https://www.palacakropolis.cz/",
+"where": "Palác Akropolis, velký sál · Kubelíkova 27, Žižkov",
+"desc": "Čtyři večery po sobě na Žižkově, ne v Nové scéně. Když ti to nevyjde dnes, hraje se i ve středu, ve čtvrtek a v pátek.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "culture",
+"s": "Divadlo"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0838,
+"lon": 14.4487
+},
+{
+"day": "út 8.",
+"dayName": "Úterý",
+"dayDate": "8. 9.",
+"dayNote": "29° · nejteplejší den, večer déšť",
+"type": "music",
+"region": false,
+"start": 1185,
+"time": "19:45",
+"note": "dobrovolné",
+"title": "The Music Digest (36): Midnight Swimmers & Metastavy",
+"href": "https://www.palacakropolis.cz/",
+"where": "Palác Akropolis, Jazz bar · Kubelíkova 27, Žižkov",
+"desc": "Poslechový večer s hosty v Jazz baru — velký sál Akropole je teď mimo provoz, takže hudba se přesunula sem. Dobrovolné vstupné.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "music",
+"s": "Poslechový večer"
+},
+{
+"k": "plain",
+"s": "Dobrovolné vstupné"
+}
+],
+"lat": 50.0838,
+"lon": 14.4487
+},
+{
+"day": "út 8.",
+"dayName": "Úterý",
+"dayDate": "8. 9.",
+"dayNote": "29° · nejteplejší den, večer déšť",
+"type": "culture",
+"region": false,
+"start": 1200,
+"time": "večer",
+"note": "",
+"title": "Letní kino: Lid versus Larry Flynt",
+"href": "https://kasarnakarlin.cz/cs/program",
+"where": "Kasárna Karlín, Prvního pluku 20",
+"desc": "Projekce s úvodem a debatou pod širým nebem. Pozor, úterý má 59 % na přeháňku a večer se rozprší.",
+"tags": [
+{
+"k": "culture",
+"s": "Kino"
+},
+{
+"k": "eat",
+"s": "Bar & jídlo"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0925,
+"lon": 14.4485
+},
+{
+"day": "út 8.",
+"dayName": "Úterý",
+"dayDate": "8. 9.",
+"dayNote": "29° · nejteplejší den, večer déšť",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "",
+"title": "Dvořákova Praha: Tonhalle-Orchester Zürich",
+"href": "https://www.rudolfinum.cz/event/38653-tonhalle-orchester-zurich-paavo-jarvi-josef-spacek-dvorakova-praha/",
+"where": "Rudolfinum, Dvořákova síň",
+"desc": "Paavo Järvi a houslista Josef Špaček, na programu Šostakovič a Beethoven. Vyprodáno.",
+"tags": [
+{
+"k": "music",
+"s": "Klasika"
+},
+{
+"k": "plain",
+"s": "Vyprodáno"
+}
+],
+"lat": 50.09,
+"lon": 14.4166
+},
+{
+"day": "út 8.",
+"dayName": "Úterý",
+"dayDate": "8. 9.",
+"dayNote": "29° · nejteplejší den, večer déšť",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "21:00",
+"note": "",
+"title": "Techno Night: Mini S, Amar Durga, Streetkid",
+"href": "https://www.crossclub.cz/cs/program/8647-techno-night/",
+"where": "Cross Club, Plynární 23",
+"desc": "Plus Amarettina a Čmarky. Úterní technová noc, vstup zdarma — nejlevnější tanec týdne.",
+"tags": [
+{
+"k": "music",
+"s": "Techno"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.101,
+"lon": 14.438
+},
+{
+"day": "út 8.",
+"dayName": "Úterý",
+"dayDate": "8. 9.",
+"dayNote": "29° · nejteplejší den, večer déšť",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "21:00",
+"note": "křest singlu",
+"title": "Imran Musa Zangi & Aqua Congas",
+"href": "https://www.jazzdock.cz/cs/koncert/imran-musa-zangi-aqua-congas-1-6",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Soul a pop, křest nového singlu. 600 Kč sezení / 350 stání.",
+"tags": [
+{
+"k": "music",
+"s": "Soul"
+},
+{
+"k": "plain",
+"s": "350–600 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "út 8.",
+"dayName": "Úterý",
+"dayDate": "8. 9.",
+"dayNote": "29° · nejteplejší den, večer déšť",
+"type": "culture",
+"region": true,
+"start": 900,
+"time": "odpoledne",
+"note": "workshop",
+"title": "Ošibana se Sanae Nagašimou",
+"href": "https://japan.cz/2026/07/14/japonske-dny-v-pruhonicke-bot-zahrade-2026/",
+"where": "Průhonice · ~15 km",
+"desc": "Navazující workshop japonské koláže z lisovaných květin s mistryní oboru. Vstupenky přes SMS Ticket.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "culture",
+"s": "Workshop"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 49.9925,
+"lon": 14.567
+},
+{
+"day": "út 8.",
+"dayName": "Úterý",
+"dayDate": "8. 9.",
+"dayNote": "29° · nejteplejší den, večer déšť",
+"type": "culture",
+"region": true,
+"start": 1050,
+"time": "17:30",
+"note": "a ve 20:00",
+"title": "Kino Beroun: Pět švestek / Dalajlama",
+"href": "https://www.mesto-beroun.cz/pro-obcany/kultura-sport-a-cestovni-ruch/kalendar-akci/?page=all",
+"where": "Kino Beroun · ~30 km",
+"desc": "V 17:30 Pět švestek, ve 20:00 dokument Oceán moudrosti.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "culture",
+"s": "Kino"
+}
+],
+"lat": 49.9636,
+"lon": 14.0714
+},
+{
+"day": "út 8.",
+"dayName": "Úterý",
+"dayDate": "8. 9.",
+"dayNote": "29° · nejteplejší den, večer déšť",
+"type": "music",
+"region": true,
+"start": 1140,
+"time": "19–21",
+"note": "",
+"title": "Koncert Petra Koláře",
+"href": "https://www.melnicko-kokorinsko.cz/kalendar-akci",
+"where": "Mělnicko · ~35 km",
+"desc": "Popový koncert, vstupenky u pořadatele.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "music",
+"s": "Pop"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.351,
+"lon": 14.474
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "demo",
+"region": false,
+"start": 420,
+"time": "7–10",
+"note": "",
+"title": "Volební kampaň MODRÁ pro jedničku",
+"href": "",
+"where": "Dvořákovo nábřeží, u č. p. 847",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.092,
+"lon": 14.416
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "market",
+"region": false,
+"start": 480,
+"time": "8–18",
+"note": "",
+"title": "Trhy na Jiřáku",
+"href": "https://trhyjirak.cz/",
+"where": "Náměstí Jiřího z Poděbrad · Praha 3",
+"desc": "Středeční varianta trhu, otevřeno až do večera.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "market",
+"s": "Farmářské"
+},
+{
+"k": "eat",
+"s": "Jídlo & káva"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.0779,
+"lon": 14.4497
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "demo",
+"region": false,
+"start": 480,
+"time": "8–10",
+"note": "",
+"title": "Protest proti porušování lidských práv v ČLR",
+"href": "",
+"where": "Pelléova 17, naproti velvyslanectví ČLR",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.1005,
+"lon": 14.403
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "culture",
+"region": true,
+"start": 540,
+"time": "9–13",
+"note": "",
+"title": "Malování na rynku",
+"href": "https://www.ricany.cz/kalendar/",
+"where": "Masarykovo náměstí, Říčany · ~22 km",
+"desc": "Výtvarná akce pod širým nebem — pozor, ve středu má pršet.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "culture",
+"s": "Výtvarné"
+}
+],
+"lat": 49.992,
+"lon": 14.654
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "music",
+"region": true,
+"start": 900,
+"time": "15–16",
+"note": "",
+"title": "Varhanní koncert",
+"href": "https://www.melnicko-kokorinsko.cz/kalendar-akci",
+"where": "Mělnicko · ~35 km",
+"desc": "",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "music",
+"s": "Varhany"
+}
+],
+"lat": 50.351,
+"lon": 14.474
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "demo",
+"region": false,
+"start": 960,
+"time": "16–18",
+"note": "pochod",
+"title": "Upozornění na nedostatek dostupné péče o lidi s postižením",
+"href": "",
+"where": "Nám. Václava Havla · přes Mánesův most na Malostranské nám.",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.081,
+"lon": 14.429
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "demo",
+"region": false,
+"start": 1020,
+"time": "17–19",
+"note": "",
+"title": "Modlitební shromáždění",
+"href": "",
+"where": "Staroměstské nám., u Mariánského sloupu",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.0875,
+"lon": 14.4213
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "culture",
+"region": true,
+"start": 1020,
+"time": "17:00",
+"note": "vernisáž",
+"title": "Salon berounských výtvarníků",
+"href": "https://www.mesto-beroun.cz/pro-obcany/kultura-sport-a-cestovni-ruch/kalendar-akci/?page=all",
+"where": "Městská galerie – Duslova vila, Beroun · ~30 km",
+"desc": "Zahájení salonu, výstava pak běží do 10. 10.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "culture",
+"s": "Vernisáž"
+}
+],
+"lat": 49.9636,
+"lon": 14.0714
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "sport",
+"region": false,
+"start": 1080,
+"time": "18:00",
+"note": "1. kolo",
+"title": "HC Slavia Praha – VHK Vsetín",
+"href": "https://hc-slavia.cz/zapasy.asp",
+"where": "Zimní stadion Eden, Vladivostocká · Praha 10",
+"desc": "První domácí zápas hokejové sezóny, start Maxa ligy.",
+"tags": [
+{
+"k": "sport",
+"s": "Hokej"
+},
+{
+"k": "eat",
+"s": "Stadionové stánky"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0668,
+"lon": 14.467
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "culture",
+"region": false,
+"start": 1080,
+"time": "18:00",
+"note": "vernisáž",
+"title": "Czech Design Week — zahájení",
+"href": "https://www.czechdesignweek.com/",
+"where": "Galerie Mánes, Masarykovo nábřeží 250",
+"desc": "Třináctý ročník, přes sto vystavujících. Festival pak běží 10.–13. 9. na čtyřech místech. Vstupenky přes GoOut nebo Ticketportal.",
+"tags": [
+{
+"k": "culture",
+"s": "Design"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.077,
+"lon": 14.4133
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "music",
+"region": false,
+"start": 1080,
+"time": "18:00",
+"note": "",
+"title": "Tóny Vinohrad: Tři barvy zvuku",
+"href": "https://www.prazskypatriot.cz/kalendar-akci-v-praze/",
+"where": "Vinohrady · Praha 2",
+"desc": "Komorní cyklus kousek od Jiřáku.",
+"tags": [
+{
+"k": "music",
+"s": "Komorní"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 50.0755,
+"lon": 14.437
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "sport",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "3. kolo poháru",
+"title": "MOL Cup: FK Viktoria Žižkov – AC Sparta Praha",
+"href": "https://www.molcup.cz/vysledky",
+"where": "Stadion Viktorie, Seifertova 2871 · Žižkov",
+"desc": "Pohárové pražské derby přímo na Žižkově. Jednotné vstupné 590 Kč, což vyvolalo bojkot části sparťanských ultras. Datum sedí, čas 19:00 uvádí jen molcup.cz — ověř si ho.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "sport",
+"s": "Fotbal"
+},
+{
+"k": "eat",
+"s": "Stadionové stánky"
+},
+{
+"k": "plain",
+"s": "590 Kč"
+}
+],
+"lat": 50.0862,
+"lon": 14.45
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "music",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "do 22:00",
+"title": "HOUSKY + ZACHOVEJ PANIKU",
+"href": "https://klub007strahov.cz/events/housky-cz-zachovej-paniku-cz/",
+"where": "Klub 007 Strahov, Chaloupeckého 7",
+"desc": "Dvě mladé alternativní kapely na legendární scéně. Vstup 100 Kč.",
+"tags": [
+{
+"k": "music",
+"s": "Alt rock"
+},
+{
+"k": "plain",
+"s": "100 Kč"
+}
+],
+"lat": 50.08,
+"lon": 14.39
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "culture",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "",
+"title": "Švestka",
+"href": "https://zdjc.cz/",
+"where": "Žižkovské divadlo J. Cimrmana, hlavní sál",
+"desc": "Cimrman na domácí půdě. Hraje se i ve čtvrtek.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "culture",
+"s": "Divadlo"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 50.0873,
+"lon": 14.447
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "",
+"title": "Dvořákova Praha: Mehldau & Gerstein in Dialogue",
+"href": "https://www.rudolfinum.cz/event/38655-mehldau-gerstein-in-dialogue-dvorakova-praha/",
+"where": "Rudolfinum, Dvořákova síň",
+"desc": "Brad Mehldau a Kirill Gerstein — jazz proti klasice na dvou klavírech. Nejzajímavější večer festivalu, a vyprodaný.",
+"tags": [
+{
+"k": "music",
+"s": "Jazz & klasika"
+},
+{
+"k": "plain",
+"s": "Vyprodáno"
+}
+],
+"lat": 50.09,
+"lon": 14.4166
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "culture",
+"region": false,
+"start": 1200,
+"time": "večer",
+"note": "",
+"title": "Letní kino: UTeBe — studentské filmy ze Zlína",
+"href": "https://kasarnakarlin.cz/cs/program",
+"where": "Kasárna Karlín, Prvního pluku 20",
+"desc": "Projekce venku, a dnes prší — počítej s tím.",
+"tags": [
+{
+"k": "culture",
+"s": "Kino"
+},
+{
+"k": "eat",
+"s": "Bar & jídlo"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0925,
+"lon": 14.4485
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "music",
+"region": true,
+"start": 1200,
+"time": "večer",
+"note": "",
+"title": "Legenda Petr Novák",
+"href": "https://www.strednicechy.cz/kalendar-akci/",
+"where": "Radim, Kolínsko · ~45 km",
+"desc": "Vzpomínkový hudební pořad, vstupenky u pořadatele.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "music",
+"s": "Vzpomínkový večer"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.085,
+"lon": 15.04
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "culture",
+"region": false,
+"start": 1260,
+"time": "večer",
+"note": "před klubem",
+"title": "Letní kino před Cross Clubem: Šeptej",
+"href": "https://www.crossclub.cz/cs/program/",
+"where": "Cross Club, Plynární 23 · Holešovice",
+"desc": "Domácí klasika venku před klubem, 140 Kč. Dnes ale prší — hlídej si klubový web.",
+"tags": [
+{
+"k": "culture",
+"s": "Kino"
+},
+{
+"k": "eat",
+"s": "Bar"
+},
+{
+"k": "plain",
+"s": "140 Kč"
+}
+],
+"lat": 50.101,
+"lon": 14.438
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "21:00",
+"note": "",
+"title": "Techno Night: Yulia & hosté",
+"href": "https://www.crossclub.cz/cs/program/8648-techno-night/",
+"where": "Cross Club, Plynární 23",
+"desc": "Středeční technová noc, vstup zdarma.",
+"tags": [
+{
+"k": "music",
+"s": "Techno"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.101,
+"lon": 14.438
+},
+{
+"day": "st 9.",
+"dayName": "Středa",
+"dayDate": "9. 9.",
+"dayNote": "20° · slabý déšť, 55 % · Viktorka proti Spartě",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "21:00",
+"note": "",
+"title": "Imran Musa Zangi & Aqua Congas",
+"href": "https://www.jazzdock.cz/cs/koncert/imran-musa-zangi-aqua-congas-1-5",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Repríza úterního křtu, 600 / 350 Kč.",
+"tags": [
+{
+"k": "music",
+"s": "Soul"
+},
+{
+"k": "plain",
+"s": "350–600 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "culture",
+"region": false,
+"start": 600,
+"time": "celý den",
+"note": "10.–13. 9.",
+"title": "Czech Design Week",
+"href": "https://www.czechdesignweek.com/",
+"where": "Galerie Mánes, Muzeum Prahy Florenc, Dům U Zlatého prstenu, Rothmayerova vila",
+"desc": "Čtyři dny na čtyřech místech, přes sto vystavujících designérů. Vstupenky v předprodeji.",
+"tags": [
+{
+"k": "culture",
+"s": "Design"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.077,
+"lon": 14.4133
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "culture",
+"region": false,
+"start": 600,
+"time": "celý den",
+"note": "10.–11. 9.",
+"title": "Festival cirkulární ekonomiky",
+"href": "https://praha.eu/",
+"where": "Kampus Hybernská, Hybernská 4",
+"desc": "Dvoudenní program o udržitelnosti a oběhovém hospodářství v centru.",
+"tags": [
+{
+"k": "culture",
+"s": "Přednášky"
+},
+{
+"k": "eat",
+"s": "Kavárna v kampusu"
+}
+],
+"lat": 50.088,
+"lon": 14.432
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "music",
+"region": false,
+"start": 900,
+"time": "15:00",
+"note": "zdarma",
+"title": "Sezóna začíná! Festival na jedno odpoledne",
+"href": "https://vzlet.cz/program/sezona-zacina-festival-na-jedno-odpoledne/",
+"where": "Vzlet, Holandská 1 · Vršovice",
+"desc": "Multižánrové odpoledne na zahájení sezóny, vstup zdarma. Dvě zastávky tramvají z Žižkova.",
+"tags": [
+{
+"k": "music",
+"s": "Multižánr"
+},
+{
+"k": "eat",
+"s": "Bistro & bar"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.07,
+"lon": 14.462
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "demo",
+"region": false,
+"start": 900,
+"time": "15–19",
+"note": "",
+"title": "Prezentace programu a kandidátů ODS pro Prahu 1",
+"href": "",
+"where": "Petrské náměstí, nároží Petrské a Samcovy",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.0925,
+"lon": 14.431
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "demo",
+"region": false,
+"start": 735,
+"time": "12:15",
+"note": "do 13:30",
+"title": "Protest proti reorganizačním změnám na FF UK",
+"href": "",
+"where": "Ovocný trh · průvod přes Železnou a Kaprovu k budově FF",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.087,
+"lon": 14.423
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "demo",
+"region": false,
+"start": 747,
+"time": "12:27",
+"note": "do 13:30",
+"title": "Deklarace 27/27 — Společně za Senát",
+"href": "",
+"where": "Malostranské nám., dolní část u Matfyzu · Milion chvilek",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.088,
+"lon": 14.4036
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "culture",
+"region": false,
+"start": 1050,
+"time": "17:30",
+"note": "",
+"title": "Háčkovací setkání",
+"href": "https://atriumzizkov.cz/program/",
+"where": "Atrium Žižkov, Čajkovského 12",
+"desc": "Sousedské háčkování na zahradě, přijít může kdokoliv.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "culture",
+"s": "Sousedské"
+}
+],
+"lat": 50.0839,
+"lon": 14.453
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "culture",
+"region": false,
+"start": 1080,
+"time": "18:00",
+"note": "vernisáž",
+"title": "Slova, která mění svět",
+"href": "https://vzlet.cz/program/",
+"where": "Vzlet, Holandská 1",
+"desc": "Zahájení výstav navazuje rovnou na odpolední festival. Zdarma.",
+"tags": [
+{
+"k": "culture",
+"s": "Vernisáž"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.07,
+"lon": 14.462
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "music",
+"region": false,
+"start": 1080,
+"time": "18:00",
+"note": "na zahradě",
+"title": "Shella + Slice Slice Baby",
+"href": "https://anka.li/2026/09/shella-food-pop-up-slice-slice-baby/",
+"where": "Planeta Za, Na Louži 7 · Praha 10",
+"desc": "Dæk collective, Kembe, Chona a SAMM na zahradě, k tomu pizza pop-up Lievito Madre. Přechází rovnou do Heartnoize vedle.",
+"tags": [
+{
+"k": "music",
+"s": "DJ set"
+},
+{
+"k": "eat",
+"s": "Pizza pop-up"
+},
+{
+"k": "plain",
+"s": "Vstup přes Planeta Za"
+}
+],
+"lat": 50.0527,
+"lon": 14.5075
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "sport",
+"region": false,
+"start": 1080,
+"time": "18:00",
+"note": "",
+"title": "Techno Pilates",
+"href": "https://www.roxy.cz/events/detail/5119/techno-pilates",
+"where": "Roxy, Dlouhá 33",
+"desc": "Lekce pilates na klubovém parketu s technem místo relaxační hudby. 599 Kč.",
+"tags": [
+{
+"k": "sport",
+"s": "Cvičení"
+},
+{
+"k": "live",
+"s": "Techno set"
+},
+{
+"k": "plain",
+"s": "599 Kč"
+}
+],
+"lat": 50.0895,
+"lon": 14.4245
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "music",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "do 23:00",
+"title": "SALO LIVE: Morwan (ua/de) + Robovi Trotoára",
+"href": "https://fuchs2.cz/events/salo-live-morwan-phosgene-girls",
+"where": "Fuchs2, ostrov Štvanice",
+"desc": "Ukrajinsko-německý post-punk, k tomu Phosgene Girls. Zlevněný předprodej, dá se koupit i na místě.",
+"tags": [
+{
+"k": "music",
+"s": "Post-punk"
+},
+{
+"k": "plain",
+"s": "Předprodej"
+}
+],
+"lat": 50.0955,
+"lon": 14.44
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "music",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "",
+"title": "Prague Proms: Boni pueri",
+"href": "https://www.prague.eu/cs/akce",
+"where": "Kostel sv. Šimona a Judy, Dušní · Praha 1",
+"desc": "Chlapecký sbor v akusticky výborném kostele.",
+"tags": [
+{
+"k": "music",
+"s": "Sborový zpěv"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.087,
+"lon": 14.418
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "music",
+"region": false,
+"start": 1170,
+"time": "19:30",
+"note": "dva sály",
+"title": "Heartnoize invites Nyege Nyege",
+"href": "https://anka.li/2026/09/heartnoize-invites-nyege-nyege/",
+"where": "Ankali + Planeta Za, Lopuchová 58/6",
+"desc": "Ugandský label Nyege Nyege v obou sálech — Pö živě v Ankali, na Planetě Anderson do Paraíso, Jay Mitta a Judgitzu. Singeli, baile funk a noise rap; nejzajímavější klubová noc týdne. 490 Kč, studenti 350.",
+"tags": [
+{
+"k": "music",
+"s": "Singeli & experiment"
+},
+{
+"k": "plain",
+"s": "350–490 Kč"
+}
+],
+"lat": 50.0527,
+"lon": 14.5075
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "",
+"title": "Neue Welt + Svaz + Amplion",
+"href": "https://www.meetfactory.cz/cs/program/detail/neue-welt-svaz-amplion",
+"where": "MeetFactory, Ke Sklárně 15 · Smíchov",
+"desc": "Alt rock, neofolk a shoegaze na jednom večeru. 290 Kč předprodej, 200 s ISIC, 390 na místě.",
+"tags": [
+{
+"k": "music",
+"s": "Alt rock"
+},
+{
+"k": "plain",
+"s": "200–390 Kč"
+}
+],
+"lat": 50.0555,
+"lon": 14.403
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "",
+"title": "Dvořákova Praha: Byčkov, Lim & Česká filharmonie",
+"href": "https://www.rudolfinum.cz/event/37146-byckov-lim-ceska-filharmonie-dvorakova-praha/",
+"where": "Rudolfinum, Dvořákova síň",
+"desc": "Dvořák, Ravel a Smetana, u klavíru Yunchan Lim. Vyprodáno.",
+"tags": [
+{
+"k": "music",
+"s": "Klasika"
+},
+{
+"k": "plain",
+"s": "Vyprodáno"
+}
+],
+"lat": 50.09,
+"lon": 14.4166
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "sport",
+"region": false,
+"start": 1260,
+"time": "21:00",
+"note": "Liga mistrů",
+"title": "SK Slavia Praha – RC Lens",
+"href": "https://www.slavia.cz/",
+"where": "Fortuna Arena, Vladivostocká · Eden, Praha 10",
+"desc": "Domácí vstup Slavie do ligové fáze Ligy mistrů. Předprodej běží od 4. 9. — největší sportovní večer přehledu.",
+"tags": [
+{
+"k": "sport",
+"s": "Fotbal"
+},
+{
+"k": "eat",
+"s": "Stadionové stánky"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.068,
+"lon": 14.468
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "21:00",
+"note": "",
+"title": "DNB Night: Unity Rage",
+"href": "https://www.crossclub.cz/cs/program/8650-dnb-night/",
+"where": "Cross Club, hlavní scéna",
+"desc": "Čtvrteční drum and bass, vstup zdarma.",
+"tags": [
+{
+"k": "music",
+"s": "Drum & bass"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.101,
+"lon": 14.438
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "sport",
+"region": true,
+"start": 900,
+"time": "15:00",
+"note": "10. ročník",
+"title": "Běh pro Charitu",
+"href": "https://www.mesto-beroun.cz/pro-obcany/kultura-sport-a-cestovni-ruch/kalendar-akci/?page=all",
+"where": "Husovo náměstí, Beroun · ~30 km",
+"desc": "Charitativní běh centrem, výtěžek pro Charitu Beroun.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "sport",
+"s": "Běh"
+},
+{
+"k": "eat",
+"s": "Stánky na náměstí"
+}
+],
+"lat": 49.9636,
+"lon": 14.0714
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "culture",
+"region": true,
+"start": 1080,
+"time": "18:00",
+"note": "",
+"title": "Roztoky ve filmu",
+"href": "https://www.roztoky.cz/zivot-ve-meste/kalendar-akci/?page=all",
+"where": "Zámek Roztoky, Historický sál · ~10 km",
+"desc": "Pásmo o filmových lokacích v Roztokách — nejbližší mimopražská akce dne.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "culture",
+"s": "Film"
+}
+],
+"lat": 50.158,
+"lon": 14.395
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "music",
+"region": true,
+"start": 1140,
+"time": "19:00",
+"note": "venku",
+"title": "TEMPA",
+"href": "https://infocentrumberoun.cz/kalendar",
+"where": "Náměstí Joachima Barranda, Beroun · ~30 km",
+"desc": "Venkovní koncert na náměstí.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "music",
+"s": "Koncert"
+}
+],
+"lat": 49.9636,
+"lon": 14.0714
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "music",
+"region": true,
+"start": 1140,
+"time": "19–22",
+"note": "",
+"title": "Saxofonové TRIO",
+"href": "https://kladensko-slansko.cz/events",
+"where": "Kladno · ~25 km",
+"desc": "",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "music",
+"s": "Jazz"
+}
+],
+"lat": 50.147,
+"lon": 14.103
+},
+{
+"day": "čt 10.",
+"dayName": "Čtvrtek",
+"dayDate": "10. 9.",
+"dayNote": "20° · zataženo, ale sucho",
+"type": "music",
+"region": true,
+"start": 1200,
+"time": "večer",
+"note": "při svíčkách",
+"title": "Hudba Bridgerton při svíčkách",
+"href": "https://www.regionbrandysko.cz/kalendar-akci/",
+"where": "Brandýs nad Labem-Stará Boleslav · ~20 km",
+"desc": "Candlelight koncert se smyčcovými aranžemi ze seriálu, vstupenky předem.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "music",
+"s": "Smyčce"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.186,
+"lon": 14.664
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "demo",
+"region": false,
+"start": 420,
+"time": "7–10",
+"note": "",
+"title": "Volební kampaň MODRÁ pro jedničku",
+"href": "",
+"where": "Uhelný trh, střed náměstí",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.084,
+"lon": 14.418
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "food",
+"region": false,
+"start": 600,
+"time": "10–21",
+"note": "30. ročník",
+"title": "Vinohradské vinobraní — první den",
+"href": "https://www.praha3.cz/aktualne-z-trojky/zpravy/vinohradske-vinobrani-se-vraci-na-namesti-jiriho-z-podebrad-n842869.htm",
+"where": "Náměstí Jiřího z Poděbrad · Praha 3, deset minut pěšky",
+"desc": "Třicátý ročník. Kolem třiceti rodinných vinařství z Čech i Moravy a dvacet stánků s jídlem. Program: 13:00 cimbálovka Alexandera Vrábela, 15:00 The Brownies, 17:00 Fol' de' Gol, 20:00 Hrubá Hudba. Vstup zdarma.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "food",
+"s": "Víno & burčák"
+},
+{
+"k": "eat",
+"s": "Dvacet stánků s jídlem"
+},
+{
+"k": "live",
+"s": "Cimbálovka, Brownies, Hrubá Hudba"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.0779,
+"lon": 14.4497
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "culture",
+"region": false,
+"start": 600,
+"time": "celý den",
+"note": "+ přehlídka",
+"title": "Czech Design Week: We're Next",
+"href": "https://www.czechdesignweek.com/",
+"where": "Galerie Mánes, Masarykovo nábřeží 250",
+"desc": "Módní preview mladých návrhářů, pro držitele festivalové vstupenky zdarma.",
+"tags": [
+{
+"k": "culture",
+"s": "Móda"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.077,
+"lon": 14.4133
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "music",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "vyprodáno",
+"title": "JILUKA (jp)",
+"href": "https://goout.net/cs/jiluka/szfiwjy/",
+"where": "Storm Club / Distrikt, Tachovské nám. 290/5 · Žižkov",
+"desc": "Japonský melodic metalcore a visual kei v nejbližším klubu od Strážní. 650 Kč, vyprodáno — zkoušej sekundární prodej.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "music",
+"s": "Metalcore"
+},
+{
+"k": "plain",
+"s": "Vyprodáno"
+}
+],
+"lat": 50.09,
+"lon": 14.456
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "music",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "",
+"title": "Nika",
+"href": "https://www.jazzdock.cz/cs/koncert/nika-1",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Jazz, pop a folk, 450 / 250 Kč.",
+"tags": [
+{
+"k": "music",
+"s": "Jazz & folk"
+},
+{
+"k": "plain",
+"s": "250–450 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "culture",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "",
+"title": "Hospoda Na mýtince",
+"href": "https://zdjc.cz/",
+"where": "Žižkovské divadlo J. Cimrmana, hlavní sál",
+"desc": "",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "culture",
+"s": "Divadlo"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 50.0873,
+"lon": 14.447
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "culture",
+"region": false,
+"start": 1170,
+"time": "19:30",
+"note": "talkshow",
+"title": "48. Kupé s Filipem Titlbachem a Marií Danči",
+"href": "https://vzlet.cz/program/",
+"where": "Vzlet, Holandská 1 · Vršovice",
+"desc": "Rozhovorový večer, lístky ještě jsou.",
+"tags": [
+{
+"k": "culture",
+"s": "Talkshow"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.07,
+"lon": 14.462
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "křest EP",
+"title": "Branko's Bridge + Island Mint",
+"href": "https://www.meetfactory.cz/cs/program/detail/brankos-bridge-krest-ep",
+"where": "MeetFactory, Ke Sklárně 15",
+"desc": "Křest nového EP domácí alternativy.",
+"tags": [
+{
+"k": "music",
+"s": "Alternativa"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0555,
+"lon": 14.403
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "v klášteře",
+"title": "Dvořákova Praha: Kožená & Kvarteto České filharmonie",
+"href": "https://www.rudolfinum.cz/event/38784-kozena-kvarteto-ceske-filharmonie-dvorakova-praha/",
+"where": "Anežský klášter, U Milosrdných 17",
+"desc": "Komorní večer v gotických prostorách místo Rudolfina. Vyprodáno.",
+"tags": [
+{
+"k": "music",
+"s": "Komorní"
+},
+{
+"k": "plain",
+"s": "Vyprodáno"
+}
+],
+"lat": 50.0925,
+"lon": 14.42
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "culture",
+"region": false,
+"start": 1200,
+"time": "večer",
+"note": "",
+"title": "Letní kino: Flashdance",
+"href": "https://kasarnakarlin.cz/cs/program",
+"where": "Kasárna Karlín, Prvního pluku 20",
+"desc": "S úvodem Jakuba Kůse, pod širým nebem.",
+"tags": [
+{
+"k": "culture",
+"s": "Kino"
+},
+{
+"k": "eat",
+"s": "Bar & jídlo"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0925,
+"lon": 14.4485
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "21:00",
+"note": "dvě scény",
+"title": "Thalassophobia: Save Our Souls",
+"href": "https://www.crossclub.cz/cs/program/8633-thalassophobia-save-our-souls/",
+"where": "Cross Club, Plynární 23",
+"desc": "Deep drum and bass s živým zpěvem a houslemi — Lameduza & Phase a Pixie. Na venkovní Cross Square souběžně Chrpy a Caution Well.",
+"tags": [
+{
+"k": "music",
+"s": "Drum & bass"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 50.101,
+"lon": 14.438
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "21:00",
+"note": "",
+"title": "Pop 80s & 90s video party",
+"href": "https://musicbar.cz/program/",
+"where": "Lucerna Music Bar, Vodičkova 36",
+"desc": "Vstupenky jen na pokladně.",
+"tags": [
+{
+"k": "music",
+"s": "Party"
+},
+{
+"k": "plain",
+"s": "Vstupné na místě"
+}
+],
+"lat": 50.081,
+"lon": 14.4245
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "music",
+"region": false,
+"start": 1320,
+"time": "22:00",
+"note": "",
+"title": "Juwana Jenkins and Her All Star Mojo Band",
+"href": "https://www.jazzdock.cz/cs/koncert/juwana-jenkins-and-her-all-star-mojo-band-1-5",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Blues a soul do noci, 600 / 350 Kč.",
+"tags": [
+{
+"k": "music",
+"s": "Blues & soul"
+},
+{
+"k": "plain",
+"s": "350–600 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "music",
+"region": false,
+"start": 1380,
+"time": "23:00",
+"note": "do rána",
+"title": "Matrixsport: Club Hel 2",
+"href": "https://anka.li/2026/09/matrixsport-club-hel-2/",
+"where": "Ankali + Planeta Za, Lopuchová 58/6",
+"desc": "Ameo1, DddddChain, Frank Flames, Frodo a další — tvrdý klubový a experimentální lineup přes oba sály.",
+"tags": [
+{
+"k": "music",
+"s": "Hard club"
+},
+{
+"k": "plain",
+"s": "Vstupné RA"
+}
+],
+"lat": 50.0527,
+"lon": 14.5075
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "music",
+"region": false,
+"start": 1380,
+"time": "23:00",
+"note": "sedm hodin",
+"title": "Allnighter: Nina Farrina",
+"href": "https://fuchs2.cz/events/allnighter-nina-farrina",
+"where": "Fuchs2, ostrov Štvanice",
+"desc": "Jedna DJka, jeden set, sedm hodin v kuse do šesti ráno. Předprodej jen přes Resident Advisor.",
+"tags": [
+{
+"k": "music",
+"s": "Techno"
+},
+{
+"k": "plain",
+"s": "Předprodej RA"
+}
+],
+"lat": 50.0955,
+"lon": 14.44
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "music",
+"region": false,
+"start": 1380,
+"time": "23:00",
+"note": "",
+"title": "Clara Cuvé (de)",
+"href": "https://www.roxy.cz/events/detail/5043/clara-cuve",
+"where": "Roxy, Dlouhá 33",
+"desc": "Berlínská producentka mezi technem a jungle, k tomu KOBØV b2b Crime Act a RIVID. Od 490 Kč. Souběžný večer s Feng (uk) je vyprodaný.",
+"tags": [
+{
+"k": "music",
+"s": "Techno & jungle"
+},
+{
+"k": "plain",
+"s": "od 490 Kč"
+}
+],
+"lat": 50.0895,
+"lon": 14.4245
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "market",
+"region": true,
+"start": 900,
+"time": "odpoledne",
+"note": "první den",
+"title": "Říčanské slavnosti",
+"href": "https://www.ricany.cz/kalendar/",
+"where": "Masarykovo náměstí, Říčany · ~22 km",
+"desc": "Dvoudenní městská slavnost; kvůli ní se v sobotu ruší běžné farmářské trhy. Line-up 2026 město zveřejňuje průběžně, v minulých letech bylo vstupné zdarma.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "market",
+"s": "Slavnosti"
+},
+{
+"k": "eat",
+"s": "Stánky"
+},
+{
+"k": "live",
+"s": "Hlavní scéna"
+}
+],
+"lat": 49.992,
+"lon": 14.654
+},
+{
+"day": "pá 11.",
+"dayName": "Pátek",
+"dayDate": "11. 9.",
+"dayNote": "20° · zataženo, ale ve dne sucho · vinobraní na Jiřáku",
+"type": "food",
+"region": true,
+"start": 1080,
+"time": "18:00",
+"note": "do 23:45",
+"title": "10. Hoštický Oktoberfest",
+"href": "https://www.melnicko-kokorinsko.cz/kalendar-akci",
+"where": "Hoštice, Mělnicko · ~40 km",
+"desc": "Dvoudenní pivní slavnost s kapelou oba večery.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "food",
+"s": "Pivo"
+},
+{
+"k": "eat",
+"s": "Grilované speciality"
+},
+{
+"k": "live",
+"s": "Kapely"
+}
+],
+"lat": 50.32,
+"lon": 14.6
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "market",
+"region": false,
+"start": 480,
+"time": "8–14",
+"note": "",
+"title": "Farmářské tržiště Náplavka",
+"href": "https://prazskenaplavky.cz/program-akci/",
+"where": "Rašínovo nábřeží · Praha 2",
+"desc": "",
+"tags": [
+{
+"k": "market",
+"s": "Trhy"
+},
+{
+"k": "eat",
+"s": "Jídlo & káva"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.0714,
+"lon": 14.4157
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "food",
+"region": false,
+"start": 480,
+"time": "8–20",
+"note": "",
+"title": "Festival malých pivovarů",
+"href": "https://www.prague.eu/cs/akce",
+"where": "Vítězné náměstí · Praha 6, metro A Dejvická",
+"desc": "Minipivovary přímo na Kulaťáku, celý den.",
+"tags": [
+{
+"k": "food",
+"s": "Pivo"
+},
+{
+"k": "eat",
+"s": "Občerstvení"
+}
+],
+"lat": 50.1,
+"lon": 14.395
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "food",
+"region": false,
+"start": 540,
+"time": "9–21",
+"note": "hlavní den",
+"title": "Vinohradské vinobraní — druhý den",
+"href": "https://www.praha3.cz/aktualne-z-trojky/zpravy/vinohradske-vinobrani-se-vraci-na-namesti-jiriho-z-podebrad-n842869.htm",
+"where": "Náměstí Jiřího z Poděbrad · Praha 3",
+"desc": "Program od jógy v devět, ve 14:00 komentovaná prohlídka kostela Nejsvětějšího Srdce Páně s farářem Janem Houkalem, odpoledne dobrodružství pro děti, večer anketa o nejlepší vinařství s tombolou. Zdarma.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "food",
+"s": "Víno & burčák"
+},
+{
+"k": "eat",
+"s": "Dvacet stánků s jídlem"
+},
+{
+"k": "live",
+"s": "Kelíškova kapela, Gitans, Discoballs, Gerald Clark"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.0779,
+"lon": 14.4497
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "food",
+"region": false,
+"start": 540,
+"time": "9–19",
+"note": "i v neděli",
+"title": "Vinobraní na vinici sv. Kláry",
+"href": "https://www.botanicka.cz/",
+"where": "Botanická zahrada, Trojská 800 · Praha 7-Troja",
+"desc": "Vína a burčák přímo na vinici, prohlídky a řemesla. Vstupné 280 Kč (online 250), v ceně i venkovní expozice a Fata Morgana.",
+"tags": [
+{
+"k": "food",
+"s": "Víno & burčák"
+},
+{
+"k": "eat",
+"s": "Food stánky"
+},
+{
+"k": "live",
+"s": "Živá hudba"
+},
+{
+"k": "plain",
+"s": "250–280 Kč"
+}
+],
+"lat": 50.116,
+"lon": 14.413
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "culture",
+"region": false,
+"start": 600,
+"time": "10–18",
+"note": "i v neděli",
+"title": "Dny evropského dědictví",
+"href": "https://www.ehd.cz/cs/ehd-2026/",
+"where": "Objekty po celé Praze · Libeňský zámek, Grabova vila, Trojský zámek",
+"desc": "Hlavní víkend otevřených památek. Libeňský zámek má prohlídky každou půlhodinu 11:00–17:00, Grabova vila 11:00–17:00, Zámecký pivovar 13:00–17:00. Vstup zdarma.",
+"tags": [
+{
+"k": "culture",
+"s": "Památky"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.108,
+"lon": 14.47
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "market",
+"region": false,
+"start": 600,
+"time": "10–19",
+"note": "i v neděli",
+"title": "Dyzajn market Babí léto",
+"href": "https://www.dyzajnmarket.com/udalost/",
+"where": "Výstaviště Holešovice · metro C Nádraží Holešovice",
+"desc": "Největší open-air prodejní výstava autorské tvorby u nás. Vstup zdarma — a hned vedle běží dožínky.",
+"tags": [
+{
+"k": "market",
+"s": "Design"
+},
+{
+"k": "eat",
+"s": "Food zóna"
+},
+{
+"k": "live",
+"s": "DJ"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.1055,
+"lon": 14.43
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "market",
+"region": false,
+"start": 600,
+"time": "10–19",
+"note": "",
+"title": "Dožínkové slavnosti",
+"href": "https://dozinkoveslavnosti.cz/",
+"where": "Výstaviště Holešovice",
+"desc": "Největší farmářské trhy v Praze — regionální potraviny, řemesla, hospodářská zvířata a zemědělská technika. Zdarma.",
+"tags": [
+{
+"k": "market",
+"s": "Dožínky"
+},
+{
+"k": "eat",
+"s": "Regionální potraviny"
+},
+{
+"k": "live",
+"s": "Folklor"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.1055,
+"lon": 14.43
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "culture",
+"region": false,
+"start": 600,
+"time": "10–20",
+"note": "DJ 18–20",
+"title": "Science Festival na Desítce",
+"href": "https://sciencefestival.cz/",
+"where": "Park Gutovka · Praha 10, kousek od Strašnic",
+"desc": "Pětadvacet stanovišť, chemické pokusy, LEGO robotika a science show, večer DJ. Zdarma.",
+"tags": [
+{
+"k": "culture",
+"s": "Věda"
+},
+{
+"k": "eat",
+"s": "Stánky"
+},
+{
+"k": "live",
+"s": "DJ od 18:00"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.074,
+"lon": 14.488
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "food",
+"region": false,
+"start": 660,
+"time": "11–21",
+"note": "15 let",
+"title": "Narozeniny Břevnovského pivovaru",
+"href": "https://www.prazskypatriot.cz/kalendar-akci-v-praze/",
+"where": "Areál Břevnovského kláštera · Praha 6",
+"desc": "Degustace, komentované prohlídky pivovaru, soutěže se sudy a program pro děti.",
+"tags": [
+{
+"k": "food",
+"s": "Pivo"
+},
+{
+"k": "eat",
+"s": "Gastro"
+},
+{
+"k": "live",
+"s": "Kapely"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 50.0842,
+"lon": 14.3556
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "food",
+"region": false,
+"start": 660,
+"time": "11–18",
+"note": "",
+"title": "Ohrada Food Fest",
+"href": "https://www.prazskypatriot.cz/kalendar-akci-v-praze/",
+"where": "Ohradské náměstí · Praha 13-Stodůlky (ne žižkovská Ohrada)",
+"desc": "Sousedský food festival na jihozápadě města.",
+"tags": [
+{
+"k": "food",
+"s": "Street food"
+},
+{
+"k": "live",
+"s": "Doprovodný program"
+}
+],
+"lat": 50.048,
+"lon": 14.34
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "market",
+"region": false,
+"start": 720,
+"time": "12–22",
+"note": "ulice bez aut",
+"title": "Korso Krymská",
+"href": "https://www.kudyznudy.cz/akce/korso-krymska",
+"where": "Krymská ulice · Vršovice, dvě zastávky z Žižkova",
+"desc": "Legendární pouliční slavnost — celá Krymská bez aut, Bert and Friends, Vec+Zverina, Bad Karma Boy a DJ Mike T, afterparty se pak rozlije po podnicích. Celé zdarma.",
+"tags": [
+{
+"k": "market",
+"s": "Sousedská slavnost"
+},
+{
+"k": "eat",
+"s": "Jídlo & pití v ulici"
+},
+{
+"k": "live",
+"s": "Bad Karma Boy, Vec+Zverina"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.07,
+"lon": 14.453
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "music",
+"region": false,
+"start": 720,
+"time": "12:00",
+"note": "do 8:00 ráno",
+"title": "Ankali ½ Weekender",
+"href": "https://anka.li/2026/09/ankali-%c2%bd-weekender-open-air-off-location-club/",
+"where": "Open air Praha 10 se shuttlem · plus Ankali a Planeta Za",
+"desc": "Dvacet hodin v kuse — od poledne open air na off-location, v noci klub. Kim Ann Foxman, artilerie, Adamovia, Ayiaa a Demonika na pěti scénách. Celodenní 350–600 Kč, jen denní 250–350, jen noční 350.",
+"tags": [
+{
+"k": "music",
+"s": "House & techno"
+},
+{
+"k": "plain",
+"s": "250–600 Kč"
+}
+],
+"lat": 50.0527,
+"lon": 14.5075
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "demo",
+"region": false,
+"start": 840,
+"time": "14–16",
+"note": "",
+"title": "Shromáždění proti ruskému režimu v Gruzii",
+"href": "",
+"where": "Staroměstské náměstí",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.0875,
+"lon": 14.4213
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "sport",
+"region": false,
+"start": 1020,
+"time": "17:00",
+"note": "8. kolo",
+"title": "AC Sparta Praha – FK Jablonec",
+"href": "https://sparta.cz/cs/zapasy/1-muzi-a/2026-2027/kalendar",
+"where": "epet ARENA, Milady Horákové 1066 · Letná",
+"desc": "Výkop je potvrzený na 17:00. Osmé kolo Chance ligy na Letné.",
+"tags": [
+{
+"k": "sport",
+"s": "Fotbal"
+},
+{
+"k": "eat",
+"s": "Stadionové stánky"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0997,
+"lon": 14.416
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "sport",
+"region": false,
+"start": 900,
+"time": "15:00",
+"note": "8. kolo",
+"title": "Bohemians Praha 1905 – 1. FC Slovácko",
+"href": "https://www.bohemians.cz/",
+"where": "Ďolíček, Vršovická 31 · Vršovice",
+"desc": "Klub potvrdil výkop na 15:00 — vejde se to před Spartu na Letné i před Korso Krymskou. Ďolíček je z Žižkova blíž než Letná.",
+"tags": [
+{
+"k": "sport",
+"s": "Fotbal"
+},
+{
+"k": "eat",
+"s": "Klobása & pivo"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0713,
+"lon": 14.459
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "demo",
+"region": false,
+"start": 900,
+"time": "15–19",
+"note": "",
+"title": "Sdílení evangelia a pomoc lidem bez domova",
+"href": "",
+"where": "Vrchlického a Opletalova, před hlavním nádražím",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.083,
+"lon": 14.434
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "music",
+"region": false,
+"start": 900,
+"time": "15:00",
+"note": "na střeše",
+"title": "Elin – Coucou Trio",
+"href": "https://www.jazzdock.cz/cs/koncert/elin-coucou-trio-jazz-on-the-roof-1",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Chanson, gypsy jazz a swing na střeše, 250 Kč.",
+"tags": [
+{
+"k": "music",
+"s": "Chanson & swing"
+},
+{
+"k": "plain",
+"s": "250 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "music",
+"region": false,
+"start": 1110,
+"time": "18:30",
+"note": "",
+"title": "NUUMMITE + CHANDRA + REZONANCE ZEMĚ",
+"href": "https://klub007strahov.cz/events/nuummite-cz-chandra-cz-rezonance-zeme-cz/",
+"where": "Klub 007 Strahov, Chaloupeckého 7",
+"desc": "Post metal, doom a psychedelie, tři domácí kapely. 300 Kč.",
+"tags": [
+{
+"k": "music",
+"s": "Post metal"
+},
+{
+"k": "plain",
+"s": "300 Kč"
+}
+],
+"lat": 50.08,
+"lon": 14.39
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "music",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "",
+"title": "Stuart McCallum (uk)",
+"href": "https://www.jazzdock.cz/cs/koncert/stuart-mccallum-uk-1",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Kytarový jazz a folk, 550 / 300 Kč.",
+"tags": [
+{
+"k": "music",
+"s": "Jazz"
+},
+{
+"k": "plain",
+"s": "300–550 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "culture",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "a ve 14:00 pohádka",
+"title": "Muži ve zbrani aneb Celá Zeměplocha jest jevištěm!",
+"href": "https://zdjc.cz/",
+"where": "Žižkovské divadlo J. Cimrmana, hlavní sál",
+"desc": "Pratchett na Žižkově. Odpoledne ve 14:00 velká divadelní pohádka a prohlídka divadla pro děti.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "culture",
+"s": "Divadlo"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 50.0873,
+"lon": 14.447
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "vrchol festivalu",
+"title": "Dvořákova Praha: Wiener Philharmoniker",
+"href": "https://www.rudolfinum.cz/event/38657-wiener-philharmoniker-tugan-sokhiev-hilary-hahn-dvorakova-praha/",
+"where": "Rudolfinum, Dvořákova síň",
+"desc": "Tugan Sochijev a Hilary Hahn, Dvořák a Prokofjev. Vyprodáno.",
+"tags": [
+{
+"k": "music",
+"s": "Klasika"
+},
+{
+"k": "plain",
+"s": "Vyprodáno"
+}
+],
+"lat": 50.09,
+"lon": 14.4166
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "culture",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "premiéra",
+"title": "Saturnin",
+"href": "https://www.hybernia.eu/",
+"where": "Divadlo Hybernia, náměstí Republiky 4",
+"desc": "Premiéra muzikálu podle Jirotky. Sobotní premiéra je vyprodaná, na neděli ve 14:00 ještě byla místa.",
+"tags": [
+{
+"k": "culture",
+"s": "Muzikál"
+},
+{
+"k": "plain",
+"s": "Vyprodáno"
+}
+],
+"lat": 50.0885,
+"lon": 14.429
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "music",
+"region": false,
+"start": 1245,
+"time": "20:45",
+"note": "",
+"title": "Rave Doll 2026",
+"href": "https://www.meetfactory.cz/cs/program/detail/rave-doll-2026",
+"where": "MeetFactory, Ke Sklárně 15",
+"desc": "Čistě ženský lineup v galerijním prostoru, 790 Kč předprodej.",
+"tags": [
+{
+"k": "music",
+"s": "Rave"
+},
+{
+"k": "plain",
+"s": "790 Kč"
+}
+],
+"lat": 50.0555,
+"lon": 14.403
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "21:00",
+"note": "tři scény",
+"title": "CRWECON + Hard Rave & DNB Divergence",
+"href": "https://www.crossclub.cz/cs/program/8634-crwecon-10-00-hard-rave-dnb-divergence/",
+"where": "Cross Club, více scén",
+"desc": "Komiksový sraz propojený s hard technem a drum and bassem, host Theodor Stratos ze Švédska.",
+"tags": [
+{
+"k": "music",
+"s": "Hard techno & DnB"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 50.101,
+"lon": 14.438
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "21:00",
+"note": "",
+"title": "Pop 80s & 90s video party",
+"href": "https://musicbar.cz/program/",
+"where": "Lucerna Music Bar, Vodičkova 36",
+"desc": "",
+"tags": [
+{
+"k": "music",
+"s": "Party"
+},
+{
+"k": "plain",
+"s": "Vstupné na místě"
+}
+],
+"lat": 50.081,
+"lon": 14.4245
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "večer",
+"note": "dobrovolné",
+"title": "Silent Disco: DekaDance + Hjörtur",
+"href": "https://kasarnakarlin.cz/cs/program",
+"where": "Kasárna Karlín, Prvního pluku 20",
+"desc": "Tanec do sluchátek, dobrovolné vstupné — nejlevnější noc víkendu a nejblíž Žižkovu.",
+"tags": [
+{
+"k": "music",
+"s": "Silent disco"
+},
+{
+"k": "eat",
+"s": "Bar & jídlo"
+},
+{
+"k": "plain",
+"s": "Dobrovolné vstupné"
+}
+],
+"lat": 50.0925,
+"lon": 14.4485
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "music",
+"region": false,
+"start": 1320,
+"time": "22:00",
+"note": "",
+"title": "JONY (az)",
+"href": "https://www.sasazu-club.com/",
+"where": "SaSaZu, Bubenské nábřeží 306 · Holešovice",
+"desc": "Ázerbájdžánský pop a rap, přesný čas klub neuvádí.",
+"tags": [
+{
+"k": "music",
+"s": "Pop & rap"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.1015,
+"lon": 14.44
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "music",
+"region": false,
+"start": 1320,
+"time": "22:00",
+"note": "",
+"title": "Groove Dock — Jazz To Dance!",
+"href": "https://www.jazzdock.cz/cs/koncert/groove-dock-jazz-to-dance-univ-34",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Jazz, elektronika a DJ do noci, 450 / 250 Kč.",
+"tags": [
+{
+"k": "music",
+"s": "Jazz & electro"
+},
+{
+"k": "plain",
+"s": "250–450 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "music",
+"region": false,
+"start": 1380,
+"time": "23:00",
+"note": "",
+"title": "Face2Face: Hard Dance Edition",
+"href": "https://www.roxy.cz/events/detail/5113/face2face-hard-dance-edition",
+"where": "Roxy, Dlouhá 33",
+"desc": "Šest DJů v b2b soubojích — hard house, hard groove a trance. 300 Kč.",
+"tags": [
+{
+"k": "music",
+"s": "Hard dance"
+},
+{
+"k": "plain",
+"s": "300 Kč"
+}
+],
+"lat": 50.0895,
+"lon": 14.4245
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "market",
+"region": true,
+"start": 480,
+"time": "8–17",
+"note": "30. ročník",
+"title": "30. Hrnčířské trhy Beroun",
+"href": "https://htberoun.cz/30-hrncirske-trhy-beroun-12-a-13-zari-2026/",
+"where": "Husovo nám. a nám. J. Barranda, Beroun · vlak ~40 min, 30 km",
+"desc": "Jubilejní ročník největších hrnčířských trhů v Čechách. Souběžně běží Dny evropského dědictví — berounské památky mají volný vstup.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "market",
+"s": "Keramika"
+},
+{
+"k": "eat",
+"s": "Občerstvení na náměstí"
+},
+{
+"k": "live",
+"s": "Doprovodný program"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 49.9639,
+"lon": 14.0722
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "nature",
+"region": true,
+"start": 600,
+"time": "10–17",
+"note": "i v neděli",
+"title": "Indiáni na Točníku",
+"href": "https://www.hrad-tocnik.cz/cs/akce/5100-indiani-na-tocniku",
+"where": "Státní hrad Točník, Zdice · ~45 km po D5",
+"desc": "Netradiční rodinná prohlídka v duchu indiánské kultury — lukostřelba, Setonův běh, stopování a rozdělávání ohně. Vstupné dle ceníku hradu.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "nature",
+"s": "Hrad"
+},
+{
+"k": "eat",
+"s": "Hradní občerstvení"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 49.8875,
+"lon": 13.8869
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "nature",
+"region": true,
+"start": 600,
+"time": "dopoledne",
+"note": "",
+"title": "Den otevřených dveří: vodní elektrárna Vrané",
+"href": "https://www.kudyznudy.cz/kalendar-akci",
+"where": "Vrané nad Vltavou · ~20 km, vlak z Braníku",
+"desc": "Prohlídka historické vodní elektrárny na Vltavě, zdarma.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "nature",
+"s": "Technická památka"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 49.937,
+"lon": 14.38
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "market",
+"region": true,
+"start": 780,
+"time": "13:00",
+"note": "oba břehy",
+"title": "Slavnosti pravého a levého břehu Vltavy",
+"href": "https://www.mu-klecany.cz/web/cs/kultura-volny-cas/prehled-kulturnich-akci/slavnosti-leveho-a-praveho-brehu",
+"where": "Přívoz Roztoky–Klecánky · ~12 km, nejbližší mimopražská akce dne",
+"desc": "Třináctý ročník sousedské slavnosti na obou březích, mezi scénami se jezdí přívozem. Hlavní scéna v Klecanech od 13:00, doprovodný program od 14:00.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "market",
+"s": "Sousedská slavnost"
+},
+{
+"k": "eat",
+"s": "Stánky"
+},
+{
+"k": "live",
+"s": "Hlavní scéna"
+}
+],
+"lat": 50.174,
+"lon": 14.411
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "music",
+"region": true,
+"start": 780,
+"time": "13:00",
+"note": "do půlnoci",
+"title": "Neratovický salón",
+"href": "https://www.regionbrandysko.cz/kalendar-akci/",
+"where": "Neratovice · ~22 km",
+"desc": "Celodenní multižánrový hudební festival.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "music",
+"s": "Multižánr"
+},
+{
+"k": "eat",
+"s": "Občerstvení"
+}
+],
+"lat": 50.259,
+"lon": 14.517
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "food",
+"region": true,
+"start": 780,
+"time": "13–23",
+"note": "",
+"title": "Vinobraní na Řepíně",
+"href": "https://www.melnicko-kokorinsko.cz/kalendar-akci",
+"where": "Řepín, Mělnicko · ~45 km",
+"desc": "Vesnické vinobraní s programem až do jedenácti večer.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "food",
+"s": "Víno & burčák"
+},
+{
+"k": "eat",
+"s": "Občerstvení"
+},
+{
+"k": "live",
+"s": "Kapely do 23:00"
+}
+],
+"lat": 50.403,
+"lon": 14.558
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "music",
+"region": true,
+"start": 900,
+"time": "15:00",
+"note": "dvě scény",
+"title": "Festival LETOROSTY",
+"href": "https://www.mesto-beroun.cz/pro-obcany/aktualne/aktuality/festival-letorosty-2026-prijede-vojtech-dyk-i-vilda-cok-12767cs.html",
+"where": "Zámek Králův Dvůr · ~33 km, kousek za Berounem",
+"desc": "Benefiční festival pro Domácí hospic Mezi břehy — Vojtěch Dyk & D.Y.K., Laura a její tygři, Vilda Čok & Bypass; druhá scéna MOPED s křtem alba. Vstupné 300 Kč. Dá se spojit s hrnčířskými trhy v Berouně.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "music",
+"s": "Festival"
+},
+{
+"k": "eat",
+"s": "Festivalové stánky"
+},
+{
+"k": "plain",
+"s": "300 Kč"
+}
+],
+"lat": 49.949,
+"lon": 14.033
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "market",
+"region": true,
+"start": 900,
+"time": "15:00",
+"note": "do půlnoci",
+"title": "Happening na starém mostě",
+"href": "https://www.regionbrandysko.cz/kalendar-akci/",
+"where": "Nelahozeves / Veltrusy · ~28 km",
+"desc": "Sousedský festival přímo na starém mostě přes Vltavu.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "market",
+"s": "Sousedský festival"
+},
+{
+"k": "eat",
+"s": "Občerstvení"
+},
+{
+"k": "live",
+"s": "Hudba"
+}
+],
+"lat": 50.257,
+"lon": 14.3
+},
+{
+"day": "so 12.",
+"dayName": "Sobota",
+"dayDate": "12. 9.",
+"dayNote": "18° · přeháňky 76 % · nejnabitější den přehledu",
+"type": "culture",
+"region": true,
+"start": 1020,
+"time": "17–20",
+"note": "",
+"title": "Masarykova vatra",
+"href": "https://kladensko-slansko.cz/events",
+"where": "Lány · ~35 km, u hrobu T. G. M.",
+"desc": "Pietní připomínka se zapálením vatry, vstup zdarma.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "culture",
+"s": "Pieta"
+},
+{
+"k": "eat",
+"s": "Stánky"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.125,
+"lon": 13.952
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "food",
+"region": false,
+"start": 540,
+"time": "9–19",
+"note": "druhý den",
+"title": "Vinobraní na vinici sv. Kláry",
+"href": "https://www.botanicka.cz/",
+"where": "Botanická zahrada, Trojská 800 · Praha 7-Troja",
+"desc": "Vstupné 280 Kč (online 250), v ceně skleník Fata Morgana i venkovní expozice.",
+"tags": [
+{
+"k": "food",
+"s": "Víno & burčák"
+},
+{
+"k": "eat",
+"s": "Food stánky"
+},
+{
+"k": "live",
+"s": "Živá hudba"
+},
+{
+"k": "plain",
+"s": "250–280 Kč"
+}
+],
+"lat": 50.116,
+"lon": 14.413
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "culture",
+"region": false,
+"start": 600,
+"time": "10–18",
+"note": "poslední den",
+"title": "Dny evropského dědictví",
+"href": "https://www.ehd.cz/cs/ehd-2026/",
+"where": "Objekty po celé Praze · Vila Lanna 10:30–18:00, kostel Stětí sv. Jana Křtitele 9–16",
+"desc": "Poslední šance letos, vstup zdarma.",
+"tags": [
+{
+"k": "culture",
+"s": "Památky"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.1,
+"lon": 14.41
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "market",
+"region": false,
+"start": 600,
+"time": "10–18",
+"note": "poslední den",
+"title": "Dyzajn market Babí léto",
+"href": "https://www.dyzajnmarket.com/udalost/",
+"where": "Plocha před Průmyslovým palácem, Výstaviště Holešovice",
+"desc": "Přes 240 lokálních tvůrců a kulinářů, nedělní část končí o hodinu dřív. Vstup zdarma, psi vítáni.",
+"tags": [
+{
+"k": "market",
+"s": "Design"
+},
+{
+"k": "eat",
+"s": "Food zóna"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.1055,
+"lon": 14.43
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "culture",
+"region": false,
+"start": 600,
+"time": "10–15",
+"note": "i zákulisí",
+"title": "Komentované prohlídky Národního divadla",
+"href": "https://www.narodni-divadlo.cz/",
+"where": "Národní 2 · Praha 1",
+"desc": "Včetně běžně nepřístupného zázemí.",
+"tags": [
+{
+"k": "culture",
+"s": "Prohlídka"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 50.081,
+"lon": 14.4135
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "demo",
+"region": false,
+"start": 780,
+"time": "13–17",
+"note": "",
+"title": "Demonstrace podpory Ukrajiny proti ruské agresi",
+"href": "",
+"where": "Staroměstské nám., u sochy Jana Husa",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.0875,
+"lon": 14.4213
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "market",
+"region": false,
+"start": 780,
+"time": "13–18",
+"note": "ověř si termín",
+"title": "Festival otevřených dílen",
+"href": "https://www.prague.eu/cs/akce",
+"where": "Smíchovská náplavka, Hořejší nábřeží · Praha 5",
+"desc": "Řemeslné dílny na nábřeží. Uvádí prague.eu, ale Kudy z nudy má akci bez potvrzeného termínu — před cestou ověř.",
+"tags": [
+{
+"k": "market",
+"s": "Dílny"
+},
+{
+"k": "plain",
+"s": "Termín neověřen"
+}
+],
+"lat": 50.073,
+"lon": 14.409
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "market",
+"region": false,
+"start": 840,
+"time": "14:00",
+"note": "",
+"title": "Prosecký podzim",
+"href": "https://www.prazskypatriot.cz/prosecky-podzim-plny-hudby-a-zabavy/",
+"where": "Park Přátelství, Prosek · Praha 9, metro C",
+"desc": "Sousedská slavnost v parku — jazzové trio, program pro děti a sportovní stanoviště. Zdarma.",
+"tags": [
+{
+"k": "market",
+"s": "Sousedská slavnost"
+},
+{
+"k": "eat",
+"s": "Stánky"
+},
+{
+"k": "live",
+"s": "Epoque Quartet s Dashou"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.113,
+"lon": 14.493
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "sport",
+"region": false,
+"start": 840,
+"time": "14:00",
+"note": "dostihy",
+"title": "Zlatý pohár EŽ Praha",
+"href": "https://www.velka-chuchle.cz/",
+"where": "Chuchle Arena, Radotínská 69 · Praha 5-Velká Chuchle",
+"desc": "Vrchol pražské rovinové sezóny. Nedělní odpoledne na dostihové dráze u Vltavy.",
+"tags": [
+{
+"k": "sport",
+"s": "Dostihy"
+},
+{
+"k": "eat",
+"s": "Občerstvení v areálu"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 50.0195,
+"lon": 14.388
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "culture",
+"region": false,
+"start": 1170,
+"time": "19:30",
+"note": "velký sál",
+"title": "Divadlo NIE (uk/pl): Přicházíme zdaleka",
+"href": "https://www.palacakropolis.cz/",
+"where": "Palác Akropolis, Kubelíkova 27 · Žižkov",
+"desc": "Britsko-polský fyzický soubor s inscenací o vykořenění. V pondělí se hraje jen pro školy.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "culture",
+"s": "Divadlo"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0838,
+"lon": 14.4487
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "nature",
+"region": false,
+"start": 960,
+"time": "16:00",
+"note": "",
+"title": "Veřejné opékání buřtů na Parukářce",
+"href": "https://parukarka.cz/akce-a-koncerty/",
+"where": "Park Parukářka, vrch sv. Kříže",
+"desc": "Neděle vychází na sucho, jen zataženo a 17°. Mělo by to proběhnout.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "nature",
+"s": "V parku"
+},
+{
+"k": "eat",
+"s": "Buřty na ohni"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.0855,
+"lon": 14.4553
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "music",
+"region": false,
+"start": 960,
+"time": "16:00",
+"note": "",
+"title": "Big Band Pražského salonního orchestru",
+"href": "https://www.jazzdock.cz/cs/koncert/big-band-prazskeho-salonniho-orchestru-nedelni-dixie-23",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Nedělní Dixie, 300 / 200 Kč.",
+"tags": [
+{
+"k": "music",
+"s": "Swing"
+},
+{
+"k": "plain",
+"s": "200–300 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "culture",
+"region": false,
+"start": 1080,
+"time": "18:00",
+"note": "závěr festivalu",
+"title": "Czech Design Award",
+"href": "https://www.czechdesignweek.com/",
+"where": "Galerie Mánes, Masarykovo nábřeží 250",
+"desc": "Vyhlášení cen a konec Czech Design Weeku.",
+"tags": [
+{
+"k": "culture",
+"s": "Design"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.077,
+"lon": 14.4133
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "demo",
+"region": false,
+"start": 1140,
+"time": "19–20",
+"note": "",
+"title": "Modlitební shromáždění svatého růžence",
+"href": "",
+"where": "Staroměstské nám., před Mariánským sloupem",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.0875,
+"lon": 14.4213
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "music",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "a afterparty",
+"title": "UPTONE: Kate Stephenson (us) + Sundej se Sunday",
+"href": "https://www.crossclub.cz/cs/program/8641-uptone-w-kate-stephenson-sundej-se-sunday/",
+"where": "Cross Club, venkovní scéna",
+"desc": "Americká písničkářka, pak nedělní dojezd s DJi. Předprodej FOURCE.",
+"tags": [
+{
+"k": "music",
+"s": "Folk-pop"
+},
+{
+"k": "plain",
+"s": "Předprodej"
+}
+],
+"lat": 50.101,
+"lon": 14.438
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "",
+"title": "Futur Swing",
+"href": "https://www.jazzdock.cz/cs/koncert/futur-swing-21",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Gypsy jazz a swing, 450 / 250 Kč.",
+"tags": [
+{
+"k": "music",
+"s": "Gypsy jazz"
+},
+{
+"k": "plain",
+"s": "250–450 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "market",
+"region": true,
+"start": 480,
+"time": "8–17",
+"note": "druhý den",
+"title": "30. Hrnčířské trhy Beroun",
+"href": "https://htberoun.cz/30-hrncirske-trhy-beroun-12-a-13-zari-2026/",
+"where": "Historické centrum Berouna · vlak ~40 min",
+"desc": "Nedělní část trhů, k tomu volný vstup do berounských památek v rámci Dnů evropského dědictví.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "market",
+"s": "Keramika"
+},
+{
+"k": "eat",
+"s": "Občerstvení"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 49.9639,
+"lon": 14.0722
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "nature",
+"region": true,
+"start": 600,
+"time": "10–17",
+"note": "poslední den",
+"title": "Indiáni na Točníku",
+"href": "https://www.hrad-tocnik.cz/cs/akce/5100-indiani-na-tocniku",
+"where": "Státní hrad Točník, Zdice · ~45 km",
+"desc": "Druhý a poslední den indiánských prohlídek. Web hradu má u termínu drobný rozpor — zavolej si na +420 778 761 741.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "nature",
+"s": "Hrad"
+},
+{
+"k": "eat",
+"s": "Hradní občerstvení"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 49.8875,
+"lon": 13.8869
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "music",
+"region": true,
+"start": 840,
+"time": "14–20",
+"note": "open air",
+"title": "Koncert u rybníku Štampach",
+"href": "https://www.melnicko-kokorinsko.cz/kalendar-akci",
+"where": "Štampach, Mělnicko · ~40 km",
+"desc": "Odpolední koncert u vody.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "music",
+"s": "Open air"
+},
+{
+"k": "eat",
+"s": "Občerstvení"
+}
+],
+"lat": 50.36,
+"lon": 14.6
+},
+{
+"day": "ne 13.",
+"dayName": "Neděle",
+"dayDate": "13. 9.",
+"dayNote": "17° · skoro zataženo, ale sucho",
+"type": "music",
+"region": true,
+"start": 600,
+"time": "dopoledne",
+"note": "víkend",
+"title": "FreeFestival Brandýs",
+"href": "https://www.freefestival.cz/",
+"where": "Zámecká zahrada, Brandýs nad Labem-Stará Boleslav · ~20 km",
+"desc": "Rodinný festival s několika scénami, součástí je i food festival a Noc filmové hudby.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "music",
+"s": "Festival"
+},
+{
+"k": "eat",
+"s": "Food festival"
+},
+{
+"k": "plain",
+"s": "Vstupné dle programu"
+}
+],
+"lat": 50.186,
+"lon": 14.664
+},
+{
+"day": "po 14.",
+"dayName": "Pondělí",
+"dayDate": "14. 9.",
+"dayNote": "18° · zataženo, sucho · klidný den",
+"type": "demo",
+"region": false,
+"start": 420,
+"time": "7–10",
+"note": "",
+"title": "Volební kampaň MODRÁ pro jedničku",
+"href": "",
+"where": "Souběh Vodičkovy a Jungmannovy",
+"desc": "",
+"tags": [
+{
+"k": "demo",
+"s": "Ohlášené shromáždění"
+}
+],
+"lat": 50.0825,
+"lon": 14.4225
+},
+{
+"day": "po 14.",
+"dayName": "Pondělí",
+"dayDate": "14. 9.",
+"dayNote": "18° · zataženo, sucho · klidný den",
+"type": "music",
+"region": false,
+"start": 1080,
+"time": "18:00",
+"note": "",
+"title": "The Upsessions (nl)",
+"href": "https://klub007strahov.cz/events/the-upsessions-nl/",
+"where": "Klub 007 Strahov, Chaloupeckého 7",
+"desc": "Holandská ska a reggae parta, 300 Kč předprodej / 400 na místě.",
+"tags": [
+{
+"k": "music",
+"s": "Ska & reggae"
+},
+{
+"k": "plain",
+"s": "300–400 Kč"
+}
+],
+"lat": 50.08,
+"lon": 14.39
+},
+{
+"day": "po 14.",
+"dayName": "Pondělí",
+"dayDate": "14. 9.",
+"dayNote": "18° · zataženo, sucho · klidný den",
+"type": "culture",
+"region": false,
+"start": 1110,
+"time": "18:30",
+"note": "na zahradě",
+"title": "Večerní jóga se Suzanne Borovcovou",
+"href": "https://atriumzizkov.cz/program/",
+"where": "Atrium Žižkov, Čajkovského 12",
+"desc": "",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "culture",
+"s": "Jóga"
+}
+],
+"lat": 50.0839,
+"lon": 14.453
+},
+{
+"day": "po 14.",
+"dayName": "Pondělí",
+"dayDate": "14. 9.",
+"dayNote": "18° · zataženo, sucho · klidný den",
+"type": "music",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "zdarma",
+"title": "Galakoncert Talent Prahy 5",
+"href": "https://www.prazskypatriot.cz/galakoncert-predstavi-viteze-souteze-talent-prahy-5/",
+"where": "Sál Bohuslava Martinů, HAMU · Malostranské nám. 13",
+"desc": "Dvacáté výročí soutěže — vítězové předchozích ročníků s Prague Philharmonia. Vstup zdarma, což u tohohle sálu není běžné.",
+"tags": [
+{
+"k": "music",
+"s": "Klasika"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.088,
+"lon": 14.4045
+},
+{
+"day": "po 14.",
+"dayName": "Pondělí",
+"dayDate": "14. 9.",
+"dayNote": "18° · zataženo, sucho · klidný den",
+"type": "culture",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "",
+"title": "Édouard Levé: Díla. Autoportrét.",
+"href": "https://www.meetfactory.cz/cs/program/detail/edouard-leve-dila-autoportret-sebevrazda",
+"where": "MeetFactory, Ke Sklárně 15 · Smíchov",
+"desc": "Divadelní adaptace textů francouzského konceptuálního autora.",
+"tags": [
+{
+"k": "culture",
+"s": "Divadlo"
+},
+{
+"k": "eat",
+"s": "Bar & kavárna"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0555,
+"lon": 14.403
+},
+{
+"day": "po 14.",
+"dayName": "Pondělí",
+"dayDate": "14. 9.",
+"dayNote": "18° · zataženo, sucho · klidný den",
+"type": "music",
+"region": false,
+"start": 1230,
+"time": "20:30",
+"note": "jazz bar",
+"title": "Hukot vln",
+"href": "https://www.palacakropolis.cz/",
+"where": "Palác Akropolis, Jazz bar · Kubelíkova 27, Žižkov",
+"desc": "Cimbál Marty Vöröšové, klarinety Hrubého, vibrafon, tuba a saxofon — improvizovaný sextet pět minut od baráku.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "music",
+"s": "Improvizace"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 50.0838,
+"lon": 14.4487
+},
+{
+"day": "po 14.",
+"dayName": "Pondělí",
+"dayDate": "14. 9.",
+"dayNote": "18° · zataženo, sucho · klidný den",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "",
+"title": "Dvořákova Praha: Magdalena Kožená uvádí",
+"href": "https://www.dvorakovapraha.cz/",
+"where": "Anežský klášter, U Milosrdných 17",
+"desc": "Mladí čeští hudebníci v romantickém programu. Poslední festivalový večer v tomhle přehledu, festival běží dál do 23. 9.",
+"tags": [
+{
+"k": "music",
+"s": "Komorní"
+},
+{
+"k": "plain",
+"s": "Vyprodáno"
+}
+],
+"lat": 50.0925,
+"lon": 14.42
+},
+{
+"day": "po 14.",
+"dayName": "Pondělí",
+"dayDate": "14. 9.",
+"dayNote": "18° · zataženo, sucho · klidný den",
+"type": "culture",
+"region": false,
+"start": 1200,
+"time": "večer",
+"note": "",
+"title": "Letní kino: Hanebný pancharti",
+"href": "https://kasarnakarlin.cz/cs/program",
+"where": "Kasárna Karlín, Prvního pluku 20",
+"desc": "Tarantino pod širým nebem, jedna z posledních projekcí sezóny.",
+"tags": [
+{
+"k": "culture",
+"s": "Kino"
+},
+{
+"k": "eat",
+"s": "Bar & jídlo"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0925,
+"lon": 14.4485
+},
+{
+"day": "po 14.",
+"dayName": "Pondělí",
+"dayDate": "14. 9.",
+"dayNote": "18° · zataženo, sucho · klidný den",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "23:00",
+"note": "",
+"title": "Los Tekkenos: Medis + hosté",
+"href": "https://www.crossclub.cz/cs/program/8651-los-tekkenos-23-00/",
+"where": "Cross Club, Plynární 23",
+"desc": "Pondělní tekno, vstup zdarma.",
+"tags": [
+{
+"k": "music",
+"s": "Tekno"
+},
+{
+"k": "plain",
+"s": "Zdarma"
+}
+],
+"lat": 50.101,
+"lon": 14.438
+},
+{
+"day": "po 14.",
+"dayName": "Pondělí",
+"dayDate": "14. 9.",
+"dayNote": "18° · zataženo, sucho · klidný den",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "21:00",
+"note": "",
+"title": "Les Gars d'en Bas",
+"href": "https://www.jazzdock.cz/cs/koncert/les-gars-den-bas-1-1",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Chanson a jazz, 550 / 300 Kč.",
+"tags": [
+{
+"k": "music",
+"s": "Chanson"
+},
+{
+"k": "plain",
+"s": "300–550 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "po 14.",
+"dayName": "Pondělí",
+"dayDate": "14. 9.",
+"dayNote": "18° · zataženo, sucho · klidný den",
+"type": "culture",
+"region": true,
+"start": 600,
+"time": "10–16",
+"note": "denně do 30. 9.",
+"title": "Zámek za totáče",
+"href": "https://www.zamek-horovice.cz/cs/akce",
+"where": "Státní zámek Hořovice · ~50 km",
+"desc": "Fotografická výstava o zámku za socialismu, dá se spojit s prohlídkou zámku. Na Hořovicku je teď jinak úplné ticho.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "culture",
+"s": "Výstava"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 49.8386,
+"lon": 13.9028
+},
+{
+"day": "po 14.",
+"dayName": "Pondělí",
+"dayDate": "14. 9.",
+"dayNote": "18° · zataženo, sucho · klidný den",
+"type": "food",
+"region": true,
+"start": 600,
+"time": "dopoledne",
+"note": "",
+"title": "Vypečené Farmstudio",
+"href": "https://www.melnicko-kokorinsko.cz/kalendar-akci",
+"where": "Farmstudio, Mělnicko · ~40 km",
+"desc": "Komunitní pečení v chalupě proměněné na kulturní prostor.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "food",
+"s": "Pečení"
+},
+{
+"k": "eat",
+"s": "Ochutnávka"
+}
+],
+"lat": 50.351,
+"lon": 14.474
+},
+{
+"day": "po 14.",
+"dayName": "Pondělí",
+"dayDate": "14. 9.",
+"dayNote": "18° · zataženo, sucho · klidný den",
+"type": "culture",
+"region": true,
+"start": 990,
+"time": "16:30",
+"note": "do 17:30",
+"title": "BOOKSTART: Hravé čtení",
+"href": "https://kladensko-slansko.cz/events",
+"where": "Středočeská vědecká knihovna, Kladno · ~28 km",
+"desc": "Jinak je v regionu pondělí úplně prázdné — nic většího se nekoná nikde do padesáti kilometrů.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "culture",
+"s": "Pro rodiny"
+}
+],
+"lat": 50.147,
+"lon": 14.103
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "culture",
+"region": false,
+"start": 480,
+"time": "8:00",
+"note": "na zahradě",
+"title": "Ranní jóga v zahradě",
+"href": "https://atriumzizkov.cz/program/",
+"where": "Atrium Žižkov, Čajkovského 12 · Praha 3",
+"desc": "Cvičí se venku, areál je pořád v rekonstrukci. Pár minut od baráku.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "culture",
+"s": "Jóga"
+}
+],
+"lat": 50.0839,
+"lon": 14.453
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "music",
+"region": false,
+"start": 1080,
+"time": "18:00",
+"note": "",
+"title": "Dvořákova Praha: mistrovské kurzy Vídeňských filharmoniků",
+"href": "https://www.dvorakovapraha.cz/",
+"where": "Artium, Centrum Bořislavka · Praha 6",
+"desc": "Závěrečný koncert účastníků komorních kurzů — festivalová odbočka mimo Rudolfinum, a levnější než hlavní program.",
+"tags": [
+{
+"k": "music",
+"s": "Komorní"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.101,
+"lon": 14.383
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "music",
+"region": false,
+"start": 1110,
+"time": "18:30",
+"note": "",
+"title": "Tomáš Víšek: Jazz Goes To Classic",
+"href": "https://www.jazzdock.cz/cs/koncert/tomas-visek-jazz-goes-to-classic-1",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Klavírní přechody mezi jazzem a klasikou, 450 Kč sezení / 250 stání.",
+"tags": [
+{
+"k": "music",
+"s": "Klavír"
+},
+{
+"k": "plain",
+"s": "250–450 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "music",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "start 19:30",
+"title": "TR/ST (ca)",
+"href": "https://www.roxy.cz/events/detail/5029/tr-st",
+"where": "Roxy, Dlouhá 33 · Staré Město",
+"desc": "Robert Alfons a jeho temná synthpopová deska, bez supportu — celý večer patří jemu. 670 Kč.",
+"tags": [
+{
+"k": "music",
+"s": "Darkwave & synthpop"
+},
+{
+"k": "plain",
+"s": "670 Kč"
+}
+],
+"lat": 50.0895,
+"lon": 14.4245
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "music",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "",
+"title": "Black Stone Cherry (us) + 10 Years",
+"href": "https://www.meetfactory.cz/cs/program/detail/rfp-concerts-black-stone-cherry-10-years",
+"where": "MeetFactory, Ke Sklárně 15 · Smíchov",
+"desc": "Kentucký southern rock v hale u trati, 690 Kč v předprodeji. Největší koncert úterý.",
+"tags": [
+{
+"k": "music",
+"s": "Southern rock"
+},
+{
+"k": "eat",
+"s": "Bar & kavárna"
+},
+{
+"k": "plain",
+"s": "690 Kč"
+}
+],
+"lat": 50.0555,
+"lon": 14.403
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "music",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "do 22:00",
+"title": "Cory Hanson (us) + Planety + Cole Berliner",
+"href": "https://klub007strahov.cz/events/cory-hanson-us/",
+"where": "Klub 007 Strahov, Chaloupeckého 7",
+"desc": "Kytarista Wand na sólové šňůře Drag City, k tomu domácí Planety. Předprodej přes GoOut.",
+"tags": [
+{
+"k": "music",
+"s": "Psych rock"
+},
+{
+"k": "plain",
+"s": "Předprodej"
+}
+],
+"lat": 50.08,
+"lon": 14.39
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "music",
+"region": false,
+"start": 1140,
+"time": "19:00",
+"note": "finále",
+"title": "Koncertino Praga: finále dechových nástrojů",
+"href": "https://www.prague.eu/cs/akce",
+"where": "Koncertní sál Pražské konzervatoře, Na Rejdišti · Praha 1",
+"desc": "Mezinárodní soutěž mladých hudebníků, závěrečné kolo.",
+"tags": [
+{
+"k": "music",
+"s": "Klasika"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0898,
+"lon": 14.4175
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "culture",
+"region": false,
+"start": 1170,
+"time": "19:30",
+"note": "",
+"title": "Petr Erbes & Boris Jedinák: Prokletí",
+"href": "https://vzlet.cz/program/petr-erbes-boris-jedinak-prokleti/",
+"where": "Vzlet, Holandská 1 · Vršovice",
+"desc": "Nová inscenace v sále bývalého kina, lístky ještě jsou. Dvě zastávky tramvají z Žižkova.",
+"tags": [
+{
+"k": "culture",
+"s": "Divadlo"
+},
+{
+"k": "eat",
+"s": "Bistro & bar"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.07,
+"lon": 14.462
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "music",
+"region": false,
+"start": 1170,
+"time": "19:30",
+"note": "doors 19:00",
+"title": "MTO Universal Praha",
+"href": "https://musicbar.cz/cs/program/m-t-o-universal/",
+"where": "Lucerna Music Bar, Vodičkova 36",
+"desc": "Orchestr Divadla Sklep — Skála, Hanák, Najbrt a spol. Klub hlásí poslední vstupenky.",
+"tags": [
+{
+"k": "music",
+"s": "Sklepácký orchestr"
+},
+{
+"k": "plain",
+"s": "Poslední lístky"
+}
+],
+"lat": 50.081,
+"lon": 14.4245
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "culture",
+"region": false,
+"start": 1170,
+"time": "19:30",
+"note": "velký sál",
+"title": "PocketArt: Jáma lvová",
+"href": "https://www.palacakropolis.cz/",
+"where": "Palác Akropolis, Kubelíkova 27 · Žižkov",
+"desc": "Nejbližší divadlo od baráku, pěšky přes Jiřák za čtvrt hodiny.",
+"tags": [
+{
+"k": "local",
+"s": "Žižkov"
+},
+{
+"k": "culture",
+"s": "Divadlo"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0838,
+"lon": 14.4487
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "100 let SOČR",
+"title": "Dvořákova Praha: 100 let SOČR",
+"href": "https://www.rudolfinum.cz/event/38659-koncert-ke-100-vyroci-vzniku-symfonickeho-orchestru-ceskeho-rozhlasu-dvorakova-praha/",
+"where": "Rudolfinum, Dvořákova síň · metro A Staroměstská",
+"desc": "Výroční koncert Symfonického orchestru Českého rozhlasu na festivalu, který běží až do 23. 9.",
+"tags": [
+{
+"k": "music",
+"s": "Klasika"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.09,
+"lon": 14.4166
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "music",
+"region": false,
+"start": 1200,
+"time": "20:00",
+"note": "do 5:00",
+"title": "Gankino Quintet + UpTONE: REDD.",
+"href": "https://www.crossclub.cz/cs/program/8635-koncert-uptone/",
+"where": "Cross Club, Plynární 23 · Holešovice",
+"desc": "Balkánská dechovka na začátek, pak REDD. a house afterparty do rána. Na UpTONE se vejdeš zdarma s registrací přes FOURCE.",
+"tags": [
+{
+"k": "music",
+"s": "Balkán & house"
+},
+{
+"k": "plain",
+"s": "Koncert placený, UpTONE zdarma"
+}
+],
+"lat": 50.101,
+"lon": 14.438
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "culture",
+"region": false,
+"start": 1200,
+"time": "večer",
+"note": "",
+"title": "Letní kino: 8. míle",
+"href": "https://kasarnakarlin.cz/cs/program/2026/09/15/letni-kino-8-mile-uvod-jakub-kus",
+"where": "Kasárna Karlín, Prvního pluku 20",
+"desc": "S úvodem Jakuba Kůse. Jedna z posledních projekcí sezóny, a dneska může pršet.",
+"tags": [
+{
+"k": "culture",
+"s": "Kino"
+},
+{
+"k": "eat",
+"s": "Bar & jídlo"
+},
+{
+"k": "plain",
+"s": "Vstupenky"
+}
+],
+"lat": 50.0925,
+"lon": 14.4485
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "music",
+"region": false,
+"start": 1260,
+"time": "21:00",
+"note": "",
+"title": "Mathias Sandberg Trio (fi/cz/dk)",
+"href": "https://www.jazzdock.cz/cs/koncert/mathias-sandberg-trio-fi-cz-dk-1-1",
+"where": "Jazz Dock, Janáčkovo nábřeží 2",
+"desc": "Severský jazz s českou stopou, 700 Kč sezení / 350 stání.",
+"tags": [
+{
+"k": "music",
+"s": "Jazz"
+},
+{
+"k": "plain",
+"s": "350–700 Kč"
+}
+],
+"lat": 50.0755,
+"lon": 14.4085
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "culture",
+"region": true,
+"start": 1020,
+"time": "17–19",
+"note": "workshop",
+"title": "Petra Líbová: Jak začít s Montessori",
+"href": "https://kladensko-slansko.cz/events",
+"where": "Středočeská vědecká knihovna, Kladno · ~28 km",
+"desc": "",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "culture",
+"s": "Workshop"
+}
+],
+"lat": 50.147,
+"lon": 14.103
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "culture",
+"region": true,
+"start": 1080,
+"time": "18:00",
+"note": "přednáška",
+"title": "Voda v lidském těle",
+"href": "https://www.mesto-beroun.cz/pro-obcany/kultura-sport-a-cestovni-ruch/kalendar-akci/?page=all",
+"where": "Klubová scéna KD Plzeňka, Beroun · ~30 km",
+"desc": "",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "culture",
+"s": "Přednáška"
+}
+],
+"lat": 49.9636,
+"lon": 14.0714
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "culture",
+"region": true,
+"start": 1140,
+"time": "19:00",
+"note": "",
+"title": "Úvěr",
+"href": "https://www.mesto-horovice.eu/volny-cas/kam-za-kulturou-a-kdy",
+"where": "Společenský dům, Hořovice · ~47 km vzdušnou čarou",
+"desc": "Konverzační komedie — jediná větší akce na Hořovicku v celém přehledu. Vstupenky přes GoOut.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "culture",
+"s": "Divadlo"
+},
+{
+"k": "plain",
+"s": "Předprodej"
+}
+],
+"lat": 49.8386,
+"lon": 13.9028
+},
+{
+"day": "út 15.",
+"dayName": "Úterý",
+"dayDate": "15. 9.",
+"dayNote": "20° · slabý déšť, 55 %",
+"type": "music",
+"region": true,
+"start": 1200,
+"time": "20:00",
+"note": "",
+"title": "Tigran Hovakimyan",
+"href": "https://www.mesto-beroun.cz/pro-obcany/kultura-sport-a-cestovni-ruch/kalendar-akci/?page=all",
+"where": "KD Plzeňka, Beroun · ~30 km",
+"desc": "Klavírní recitál, vlakem z hlavního nádraží asi čtyřicet minut.",
+"tags": [
+{
+"k": "plain",
+"s": "Do 50 km"
+},
+{
+"k": "music",
+"s": "Klavír"
+},
+{
+"k": "plain",
+"s": "Vstupné"
+}
+],
+"lat": 49.9636,
+"lon": 14.0714
+}
+]
+}
